@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Junior Software Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Motivated Junior Software Developer with over one year of experience in full-stack development. Adept in backend technologies such as Node.js, Express.js, and PHP (Laravel), as well as frontend frameworks like React and Angular. Experienced in developing scalable microservices in Kubernetes, and proficient in writing scalable, performant code while following best practices. Strong skills in JavaScript, Java, MySQL, and MongoDB. Committed to delivering high-quality software and continuously learning new technologies to enhance solutions.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript",
+            "HTML & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Java & Spring Boot",
+            "Angular",
+            "Git (GitLab)",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Docker & Kubernetes",
+            "Object-Oriented Programming (OOP)",
+            "CI/CD Pipelines",
+            "Redis"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Built and improved platform solutions to align with user preferences and technological advancements.",
+                    "achievements": [
+                        "Streamlined backend services using Node.js and Express.js for scalable API integration, enhancing user data retrieval and processing.",
+                        "Revamped frontend components using Angular, elevating responsive design for enhanced user interaction across devices.",
+                        "Utilized CI/CD pipelines to ensure rapid, consistent deployment and simplified application delivery.",
+                        "Deployed applications on Kubernetes, optimizing resource allocation, and enhancing system resilience.",
+                        "Employed data management tactics in MySQL for efficient user data storage and system querying."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "Express.js",
+                        "Angular",
+                        "MySQL",
+                        "Kubernetes",
+                        "CI/CD pipelines",
+                        "Docker"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed web platforms catering to a diverse audience, ensuring high availability and optimal performance.",
+                    "achievements": [
+                        "Enhanced application scalability with API-driven microservices using PHP (Laravel), reducing latency during peak loads.",
+                        "Integrated user-centric design updates with React, improving client satisfaction through seamless interactions.",
+                        "Implemented event-driven architecture for real-time data changes and automated processes, increasing efficiency.",
+                        "Collaborated with cross-functional teams using Agile methodologies, achieving project milestones effectively.",
+                        "Optimized MySQL and MongoDB databases, improving data retrieval speeds and contributing to database integrity."
+                    ],
+                    "tech_stack":   [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "Laravel Queues"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ],
+    "cover_letter" : "Dear Hiring Manager,\n\nI am writing to express my interest in the Junior Full Stack Developer position at ELITS, advertised as a hybrid role in Montreal. With over a year of dedicated software development experience, I bring a robust skill set tailored to designing and deploying scalable backend microservices and creating dynamic frontend applications.\n\nMy experience with Node.js, Express.js, and PHP (Laravel) has honed my ability to develop resilient microservices. I am proficient with Angular, aligning with your requirement for modern frontend solutions. Additionally, my hands-on experience with Docker and Kubernetes supports efficient container orchestration, vital for deploying applications within a cloud-native ecosystem.\n\nDelivering on time while adhering to best coding practices has been fundamental to my approach. I emphasize writing code that is not only functional but also maintainable and secure. My background in optimization and testing ensures that code scalability and resilience are never compromised.\n\nI am enthusiastic about the opportunity to contribute to your team, leveraging my skills in Agile methodologies, communication, and creative problem-solving. I look forward to contributing to innovative projects at ELITS and growing as part of your dynamic team.\n\nThank you for considering my application. I am eager to bring my technical expertise and proactive approach to ELITS.\n\nSincerely,\n\n[Your Name]"
+}

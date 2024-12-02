@@ -1,0 +1,187 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Experienced Software Engineer with 5 years of expertise in back-end development using Go, JavaScript, and MongoDB. Proven ability to design robust software architectures and maintain high-availability production environments. Adept at managing production servers and fostering team growth by mentoring junior developers. Passionate about secure communication, data privacy, and developing high-quality applications.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Go",
+            "JavaScript",
+            "RESTful APIs",
+            "MongoDB",
+            "JSON",
+            "Production Server Management"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript & jQuery",
+            "HTML & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (Version Control)",
+            "Docker",
+            "Agile Methodologies (Scrum, JIRA)",
+            "CI/CD Pipelines",
+            "Kubernetes",
+            "GRPC",
+            "Microservices Architecture"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed a robust platform for seamless, secure communication, aligning with user privacy needs.",
+                    "achievements": [
+                        "Engineered a scalable back-end system using Go and integrated RESTful API services, supporting voice and messaging apps with a focus on privacy.",
+                        "Implemented Agile methodologies to streamline development processes, improving the release cycle efficiency.",
+                        "Optimized MongoDB database queries for faster data retrieval, enhancing user experience in high-traffic scenarios."
+                    ],
+                    "tech_stack": [
+                        "Go",
+                        "MongoDB",
+                        "RESTful APIs",
+                        "Agile Methodologies",
+                        "Data Privacy Techniques"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Optimized a communication platform for enhanced scalability and efficiency, supporting a large user base.",
+                    "achievements": [
+                        "Designed and optimized server-side applications using Go, ensuring high availability and reliability.",
+                        "Managed production server environments, implementing load balancing to handle peak user loads effectively.",
+                        "Mentored junior developers, fostering a collaborative team environment with a focus on continuous improvement."
+                    ],
+                    "tech_stack": [
+                        "Go",
+                        "Production Server Management",
+                        "Load Balancing",
+                        "Mentorship",
+                        "Team Collaboration"
+                    ]
+                },
+                {
+                    "summary": "Developed a system for communication services with a strong focus on scalability and user engagement.",
+                    "achievements": [
+                        "Engineered a communication platform using JavaScript, ensuring seamless data processing and security.",
+                        "Incorporated Agile practices, leading bi-weekly sprints to accelerate development processes and address blockers efficiently.",
+                        "Implemented microservices architecture, optimizing system performance and scalability for over 500,000 active monthly users."
+                    ],
+                    "tech_stack": [
+                        "JavaScript",
+                        "Microservices Architecture",
+                        "Agile Practices",
+                        "User Engagement",
+                        "Scalability Techniques"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the development of a secure platform for personalized study planning, emphasizing data privacy.",
+                    "achievements": [
+                        "Designed automated systems using Go and key data privacy techniques, enhancing user data security and processing speed by 40%.",
+                        "Streamlined reporting processes with Microservices Architecture and Agile methodologies, improving operational efficiency by 30%.",
+                        "Educated team on secure programming practices to align with best-in-class data protection standards."
+                    ],
+                    "tech_stack": [
+                        "Go",
+                        "Data Privacy",
+                        "Microservices Architecture",
+                        "Agile (Scrum)",
+                        "User Data Security"
+                    ]
+                },
+                {
+                    "summary": "Engineered a two-panel communication system, optimizing operations and increasing user engagement.",
+                    "achievements": [
+                        "Architected a scalable communication system with Go, facilitating seamless user interaction and data exchange.",
+                        "Migrated legacy systems to a microservices framework, reducing operational costs by 25% and boosting performance.",
+                        "Led Agile sprints to drive system enhancement and integrate user feedback into development iterations."
+                    ],
+                    "tech_stack": [
+                        "Go",
+                        "Microservices Framework",
+                        "Scalability Solutions",
+                        "Agile (Scrum)",
+                        "User Engagement Techniques"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ]
+}

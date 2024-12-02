@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack Engineer",
+        "phone": "",
+        "email": "",
+        "address": "Montreal, QC, Canada",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience. Proven track record in front-end and back-end development using modern frameworks such as React, Node.js, and Python. Skilled in managing the entire development lifecycle, including architecture design, API creation, database management, and deployment. Proficient in cloud infrastructure technologies (e.g., AWS, GCP, Azure) and experienced with RESTful and GraphQL APIs. Committed to continuous learning, technical excellence, and contributing to innovative web, Web3, and AI projects.",
+    "skills": {
+        "soft_skills": [
+            "Client Relationship Management",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Strong Communication",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Node & Express",
+            "Python & Django",
+            "MySQL",
+            "MongoDB",
+            "RESTful & GraphQL APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript",
+            "HTML5 & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Cloud (AWS, GCP, Azure)",
+            "Docker & Kubernetes",
+            "CI/CD pipelines",
+            "DevOps practices",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Implemented scalable architecture using Node.js and React to manage dynamic user requests efficiently.",
+                        "Employed RESTful API for secure and seamless data integration, improving the platform's reliability and performance.",
+                        "Optimized database queries in MySQL and MongoDB for enhanced data retrieval speed and reduced server loads.",
+                        "Deployed the application on AWS, leveraging cloud services for improved scalability and reduced latency.",
+                        "Automated data updates and user notifications using serverless functions, enhancing user engagement and reducing operational costs."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "AWS",
+                        "RESTful API",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Utilized Node.js and Express to build a modular and extensible backend system supporting high data throughput.",
+                        "Integrated AWS Lambda for cost-effective handling of background tasks and heavy computations.",
+                        "Enhanced platform security and user privacy through JWT-based authentication and data encryption techniques."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "Vue.js",
+                        "AWS Lambda",
+                        "JWT"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Start-Up",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Implemented an intuitive frontend using React for enhanced user interaction and responsiveness.",
+                        "Streamlined backend operations with Node.js, achieving a robust data processing pipeline.",
+                        "Deployed the platform using Azure, ensuring high availability and performance during peak usage periods."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Node.js",
+                        "Azure",
+                        "Responsive UI",
+                        "Performance Optimization"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ]
+}

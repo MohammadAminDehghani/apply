@@ -1,0 +1,199 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Javascript Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience in JavaScript and backend development. Skilled in developing scalable, high-performance web applications using Node.js, with experience in cloud platforms like AWS and GCP. Excellent problem-solving abilities and a passion for delivering high-quality software solutions. Proven expertise in CI/CD practices, Firebase integration, and cross-functional team collaboration for innovative system enhancements.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Node & Express",
+            "RESTful APIs",
+            "MySQL",
+            "MongoDB",
+            "PHP & Laravel"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript & jQuery",
+            "HTML & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "CI/CD pipelines",
+            "Firebase",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Contributed to a platform for assisting students in finding the best professors based on interests and research areas.",
+                    "achievements": [
+                        "Led the development of a scalable backend using Node.js to ensure high-quality data processing for professor profiles.",
+                        "Improved user engagement by optimizing the frontend with React, enhancing responsiveness and load times.",
+                        "Automated data collection using web scraping and integrated it with databases like MySQL and MongoDB for dynamic content management.",
+                        "Implemented Firebase for real-time data updates, increasing platform efficiency and user interaction.",
+                        "Collaborated on deploying CI/CD pipelines to streamline development workflows and ensure consistent application updates."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "Firebase",
+                        "CI/CD pipelines",
+                        "web scraping"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed and optimized platforms for handling high volumes of user data and improving operational workflows.",
+                    "achievements": [
+                        "Enhanced platform scalability using Node.js and GCP, allowing seamless handling of growing user base and data.",
+                        "Integrated Firebase for scalable applications, ensuring smooth and real-time data synchronization.",
+                        "Automated deployment processes with pipelines, increasing release speed and reducing errors.",
+                        "Optimized backend operations to support over 200,000 users and peak activities efficiently.",
+                        "Implemented CI/CD practices to maintain application stability and rapid feature deployment."
+                    ],
+                    "tech_stack":   [
+                        "Node.js",
+                        "Firebase",
+                        "GCP",
+                        "CI/CD pipelines",
+                        "MySQL"
+                    ]
+                },
+                {
+                    "summary": "Created a collaborative platform for registration and management, involving complex data processes.",
+                    "achievements": [
+                        "Developed multi-level platform architecture with secure user management and access control.",
+                        "Streamlined data processing using Node.js, reducing processing time and improving data accuracy.",
+                        "Integrated cloud services for efficient data handling and enhanced user experience.",
+                        "Automated reporting systems for real-time insights, increasing operational efficiency by 60%.",
+                        "Applied Agile methodologies with bi-weekly sprints to accelerate development and feature delivery."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Cloud platforms"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the creation of an adaptive study planning platform incorporating automation and optimization techniques.",
+                    "achievements": [
+                        "Automated personalized study plan generation with Node.js, increasing plan creation efficiency by 80%.",
+                        "Enhanced platform scalability using cloud technologies, accommodating growing user demands.",
+                        "Optimized database operations for improved data retrieval, reducing execution time by 40%.",
+                        "Implemented caching and real-time reporting to support heavy platform usage and data flows.",
+                        "Created immersive learning tools with React and JavaScript to boost student engagement."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "Firebase",
+                        "MySQL",
+                        "Cloud services"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel system for business process enhancement and operational optimisation.",
+                    "achievements": [
+                        "Built dual-panel dashboard with Node.js, improving data accuracy and operational throughput.",
+                        "Transitioned frontend to modern frameworks (React/Next.js) for performance and scalability upgrades.",
+                        "Leveraged cloud integration for real-time data processing and analytics, enhancing decision-making.",
+                        "Automated key business processes, reducing manual workload and processing delays.",
+                        "Utilized CI/CD pipelines for continuous deployment, ensuring stable and consistent application updates."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "Next.js",
+                        "GCP",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}

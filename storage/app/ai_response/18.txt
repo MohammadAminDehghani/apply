@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Frontend Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Dedicated Frontend Developer with 5 years of experience specializing in React and TypeScript single-page applications. Skilled in creating responsive, cross-browser compatible UI/UX designs utilizing SASS/SCSS. Proficient in maintaining and optimizing build tools like Webpack and Babel. Expertise in writing comprehensive unit tests and familiar with integration testing for robust code quality. Eager to collaborate within a microteam to innovate and enhance user experiences.",
+    "skills": {
+        "soft_skills": [
+            "Empathic Code Reviews",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "RESTful APIs",
+            "Node & Express",
+            "MySQL",
+            "MongoDB"
+        ],
+        "hard_skills_frontend": [
+            "React & TypeScript",
+            "JavaScript & Next.js",
+            "HTML5 & CSS3 & SCSS"
+        ],
+        "hard_skills_tools": [
+            "Webpack & Babel",
+            "Unit Testing Frameworks",
+            "Git (GitHub)",
+            "Figma",
+            "Agile Methodologies (Scrum, JIRA)",
+            "CI/CD"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Frontend Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed a responsive frontend application to enhance user interaction and interface design.",
+                    "achievements": [
+                        "Collaborated within a microteam to ideate and develop new React TypeScript features, focusing on maintainability and user-friendly UI.",
+                        "Refactored CSS structures using SASS/SCSS to optimize performance and ensure cross-browser compatibility.",
+                        "Implemented unit tests to improve code reliability, reducing defects by 30%._",
+                        "Reviewed and tested frontend code for quality assurance, achieving a 95% code coverage rate."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "TypeScript",
+                        "HTML5",
+                        "CSS3",
+                        "SCSS",
+                        "Webpack",
+                        "Babel",
+                        "CI/CD"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Frontend Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Optimized frontend architecture and improved UI performance for a platform serving thousands of users.",
+                    "achievements": [
+                        "Architected scalable and reusable frontend components using React, driving a 20% increase in page load speed.",
+                        "Implemented socket lifecycle management, ensuring seamless real-time updates and maintaining efficient API storage.",
+                        "Enhanced debugging and maintenance processes by leveraging advanced build tools."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "TypeScript",
+                        "SCSS",
+                        "HTML5",
+                        "Webpack",
+                        "Jest for Unit Testing"
+                    ]
+                },
+                {
+                    "summary": "Contributed to a multi-functional web platform focusing on user-centric design and performance.",
+                    "achievements": [
+                        "Converted existing codebase to TypeScript, improving type safety and reducing runtime errors by 15%.",
+                        "Streamlined build processes using Vite, cutting down build times significantly.",
+                        "Participated in design sessions using Figma to translate visual designs into interactive and accessible web interfaces."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "TypeScript",
+                        "Vite",
+                        "Figma",
+                        "SCSS",
+                        "Agile Methodology"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ],
+    "cover_letter" : "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

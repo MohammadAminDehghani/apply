@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of strong expertise in PHP (Laravel) and JavaScript, specializing in developing scalable, high-performance web applications. Proficient in backend technologies (PHP, Node.js) and frontend development (React). Strong knowledge in database management (MySQL), API integrations, and optimizing performance. Skilled collaborator in remote team settings, dedicated to innovative projects that enhance user engagement.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React",
+            "JavaScript & jQuery",
+            "HTML5 & CSS3"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Redis",
+            "Agile Methodologies (Scrum)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI/CD)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Enhanced backend scalability and performance using Django, enabling real-time data processing for professor profiles, integrating seamlessly with Laravel APIs.",
+                        "Elevated front-end UX by implementing React, delivering a highly responsive UI that cut bounce rate by 20% and increased user sessions by 15%.",
+                        "Optimized data integration of MySQL and MongoDB, spearheading improved data accuracy and faster retrieval for over 1,000 academic programs."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "OpenAPI"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Engineered a reliable registration framework in Laravel, cutting operation bottlenecks and scaling to support 100k records with enhanced MySQL indexing.",
+                        "Instituted email dispatch operations using Laravel Queues, achieving 99% delivery accuracy for 3,000 daily email confirmations amid high user loads.",
+                        "Automated managerial reports using Laravel Scheduling, lowering report generation time from hours to minutes, thus improving operational response by 50%."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Architected a comprehensive user role-based access control with Laravel Guards to streamline secure access across multi-user levels.",
+                        "Trimmed invoice error rate to 1% and improved server efficiency by offloading tasks with Laravel Jobs and Queues.",
+                        "Championed Agile adoption, conducting effective Scrum sprints that drastically increased code deployment frequency by 60%."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Agile methodology",
+                        "Scrum framework"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Implemented an automated data analysis tool in Laravel that cut manual processing by 80%, multiplying platform scalability fivefold.",
+                        "Streamlined user registration pipeline using API-driven email campaigns, raising user engagement by 25% through accelerated workflows.",
+                        "Accelerated the application's MySQL performance, decreasing data retrieval delays by 40% and enhancing user experiences during high-traffic windows."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Constructed an agile admin and caller dashboard in Laravel, boosting operational efficiency by 70% and scaling call volume by 193%.",
+                        "Revolutionized the front end with Next.js, achieving a modernized UI that cut load times by 45%, improving user interaction quality.",
+                        "Integrated Redis and advanced analytics, eliminating manual bottlenecks, and supporting robust real-time insights that upgraded customer satisfaction to 96%."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React/Next.js",
+                        "MySQL",
+                        "Redis",
+                        "CI/CD"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ],
+    "cover_letter" : "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

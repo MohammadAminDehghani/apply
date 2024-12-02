@@ -1,0 +1,195 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Fullstack Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Experienced Full-Stack Developer with over 5 years of expertise in PHP 8+, Laravel, modern JavaScript frameworks (React and Next.js), and large-scale SaaS applications. Proficient in delivering powerful and responsive web applications, collaborating with UX/UI designers, backend engineers, and ensuring best practices in performance optimization. Known for innovative problem-solving, high ownership of tasks, and enhancing user-oriented products.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "High Ownership",
+            "Innovation Mindset",
+            "Accountability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "RESTful APIs",
+            "Backend Performance Optimization"
+        ],
+        "hard_skills_frontend": [
+            "React & Typescript",
+            "JavaScript",
+            "CSS",
+            "Frontend Performance Optimization"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "CI/CD Pipelines",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Docker",
+            "HTML5",
+            "GCP Cloud SQL",
+            "BigQuery",
+            "Cloud Tasks and PubSub"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed a sophisticated platform to assist U.S. and Canadian students in finding top professors based on research interests.",
+                    "achievements": [
+                        "Developed scalable backend infrastructure using PHP (Laravel) to enhance data processing and reliability for professor profiles.",
+                        "Optimized a user-friendly interface with React and Next.js, reducing load times and improving responsiveness across devices.",
+                        "Integrated MySQL and MongoDB within the platform to efficiently manage and retrieve structured and unstructured academic data."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Designed and maintained a high-performing platform for undocumented immigrants, ensuring seamless operation for a vast user base.",
+                    "achievements": [
+                        "Implemented Laravel Jobs and Queues to handle mass email processing, ensuring uninterrupted service for thousands of users.",
+                        "Enhanced the automated reporting system, streamlining workflows with Laravel Scheduling and reducing manual report generation."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Developed a comprehensive dual-platform application to facilitate user registration and tax invoice processing.",
+                    "achievements": [
+                        "Designed a layered platform architecture with robust role-based access control using Laravel's Guard.",
+                        "Optimized tax invoice processes with Laravel Jobs and Queues, significantly reducing error rates and improving server responsiveness."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Agile methodology",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the development of Kabonto platform, delivering personalized study plans through automated algorithms and PHP/Laravel.",
+                    "achievements": [
+                        "Automated study plan generation, reducing manual input by 80% and enabling the platform to scale efficiently.",
+                        "Optimized database and reporting systems for enhanced performance and student data retrieval speed."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "Backend: PHP (Laravel)",
+                        "Docker",
+                        "CI/CD pipelines",
+                        "Agile (Scrum)",
+                        "Git, GitHub"
+                    ]
+                },
+                {
+                    "summary": "Designed a dual-panel admin and call center application to streamline processes and improve operational performance.",
+                    "achievements": [
+                        "Built a responsive two-panel system with Laravel and React, achieving a 70% increase in operational efficiency.",
+                        "Enhanced performance and user experience through frontend migration to React/Next.js and backend optimizations."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "React",
+                        "Next.js",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies",
+                        "Performance optimization"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ],
+    "cover_letter" : "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

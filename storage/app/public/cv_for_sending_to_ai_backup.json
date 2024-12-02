@@ -1,0 +1,268 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "Montreal, QC, Canada comment_for_ai: if the job is remote or outside Canada, keep it, otherwise change it to the job location.",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience in PHP (Laravel) and JavaScript, specializing in developing scalable, high-performance web applications. Skilled in backend technologies (PHP, Node.js, RESTful APIs) and proficient in frontend development (React, Next.js, Vue.js). Strong expertise in database management (MySQL, MongoDB), API integrations, and optimizing performance. Collaborative team player with a track record of successful remote and in-office work. Committed to continuous learning, technical excellence, and contributing to innovative projects that drive revenue and user engagement.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "comment_for_ai: you can change this section to an empty string if you think this is a frontend-focused job and backend skills are not required.",
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript & jQuery",
+            "HTML & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "comment_for_ai: change tools by priority, if some tools are not related remove them and some new one or change to exact value like HTML to HTML5 or vice versa",
+            "Git (GitHub)",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "Redis",
+            "SEO",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI/CD)",
+            "Python",
+            "Java",
+            "Caching Systems (Redis)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Rewrite and prioritize achievements according to job requirements.\n  Retain only 3–5 key achievements that align with the job's focus.\n  Emphasize technologies I know: PHP/Laravel, Node.js/Express.js, Python/Django, React, Vue, HTML, CSS, JavaScript, Wordpress MySQL, and MongoDB.\n  If the job requires expertise outside my skills (e.g., C#, .Net, Java), respond with: 'This job does not match your expertise.'\n  For each bullet, describe: 1. the problem, 2. the solution, and 3. the tools/technologies used.\n  If the job focuses on a specific stack (e.g., Django + React), adjust the technologies and achievements to reflect that stack.\n  Ensure bullets are concise, measurable, and impactful.\n In each bullet, describe: 1. the problem, 2. the solution, and 3. the tools/technologies used.\n This comment applies to all projects.",
+                        "Implemented Web Scraping techniques to collect detailed professor profiles, including research interests and publications, ensuring comprehensive and up-to-date information for users.",
+                        "Utilized Google and LinkedIn APIs for secure and seamless user authentication. Enhanced security and scalability with JWT-based authentication to manage user sessions.",
+                        "Leveraged OpenAI APIs for analyzing professor pages, identifying relevant research interests, and generating personalized emails tailored to the professor's work and the student’s academic goals.",
+                        "Used MySQL to store structured data like universities, cities, and countries. Incorporated MongoDB for managing dynamic, unstructured data related to professors' detailed profiles and publications.",
+                        "Built an intuitive and responsive user interface with Next.js, enabling fast page loads and excellent user experience across devices.",
+                        "Developed the backend using Python (Django) for reliable and scalable API services and efficient data processing.",
+                        "Designed and implemented scheduler-based updates to ensure professor information remains current, reducing manual intervention.",
+                        "Automated the generation of custom email drafts based on professor profiles and student preferences using OpenAI, enhancing user engagement and increasing outreach effectiveness."
+                    ],
+                    "tech_stack": [
+                        "comment_for_ai: change tools by priority, if some tools are not related remove them and some new one or change to exact value like HTML to HTML5 or vice versa. this comment is valid for all projects",
+                        "Python (Django)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "web scraping",
+                        "Scheduler for continuous updates",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Designed and developed a platform for undocumented immigrants using Laravel and MySQL, enabling users to register their personal information while automating daily and weekly reporting for managers.",
+                        "Integrated Jobs and Queues in Laravel to handle email confirmations for over 3,000 daily registrations and 5,000 concurrent users, ensuring smooth and uninterrupted user experience during peak loads.",
+                        "Utilized Laravel Scheduling to automate the generation and delivery of manager reports, streamlining operational workflows.",
+                        "Employed data chunking techniques for processing large datasets during report preparation, reducing memory overhead and execution time, ensuring timely availability of insights for managers"
+                    ],
+                    "tech_stack":   [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Designed and implemented a multi-level platform architecture with role-based access control using Laravel's Guard",
+                        "Streamlined invoice submissions using Laravel Jobs and Queues, which reduced errors from 3% to 1% and mitigated server overload by preventing 37% of excessive user requests during peak periods",
+                        "Built a robust tax invoice management system to ensure accurate and timely submission of invoices for over 1,000 companies, enhancing compliance with national tax regulations",
+                        "Automated the contract finalization process, reducing processing time from 20 days to 3 days by implementing streamlined workflows and digitized contract management",
+                        "Adopted Agile methodology with Scrum frameworks, conducting bi-weekly sprints to identify and resolve blockers quickly, increasing development velocity by over 60%",
+                        "Developed user-friendly frontend interfaces using Bootstrap, HTML, CSS, and jQuery, later upgrading to React/Next.js for enhanced interactivity and scalability",
+                        "Optimized MySQL database performance through indexing, enabling efficient retrieval of over 1 million invoices and improving query execution times. Introduced MySQL cube functionality to optimize reporting processes, reducing report generation requests by 1,000+ per hour (part of team)"
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML",
+                        "CSS",
+                        "jQuery",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Agile methodology",
+                        "Scrum framework",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Start-Up",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses. Introduced automation for generating study schedules without human intervention, leveraging PHP, Laravel, and algorithmic planning techniques.\n",
+                    "achievements": [
+                        "Utilized Laravel's Jobs feature to connect the support team with customers, enabling the generation of the first free study program within 5 minutes of registration",
+                        "Developed a platform to create a student compliance program, catering to a target community of over 2 million customers",
+                        "Created a mathematical calculation game using PHP and JavaScript, resulting in a significant reduction in the average calculation speed of students from 47 seconds to 21 seconds",
+                        "Developed a Lightner box game using PHP and JavaScript, enabling students to practice memorization through more than 6000 short questions",
+                        "Designed and implemented over 5000 individual study programs tailored to students' study hours, significantly reducing planning time from approximately 1 hour to less than 10 minutes",
+                        "Automated the creation of personalized study plans by developing a system in Laravel that analyzes students' strengths and weaknesses. This eliminated the need for human intervention, reducing the time spent on generating plans by 80%, allowing the platform to scale and accommodate 5x more students",
+                        "Implemented Agile and Scrum methodologies to improve team coordination and speed up development processes. This led to more efficient communication between developers, designers, and stakeholders, increasing overall team productivity and reducing development time by 50%",
+                        "Designed a multi-guard authentication system in Laravel to manage role-based access control (RBAC) for admins, teachers, advisors, and students. This enhanced security and allowed for smooth user transitions, reducing unauthorized access incidents by 90%",
+                        "Optimized database performance using indexing and query optimization in MySQL, specifically targeting student profiles and reports. This improved data retrieval speeds, reducing query execution time by 40%, enhancing user experience and system performance during high traffic",
+                        "Integrated Laravel Queues and caching mechanisms to manage heavy tasks like email notifications and large data processing. This offloaded server load, improving scalability and reducing server load by 30%, while improving response times by 20% during peak traffic",
+                        "Automated the user onboarding and verification process by integrating Laravel with email marketing tools, drastically cutting down the manual data entry required for new user accounts. This reduced onboarding time from 7 days to 1 day, leading to a 25% increase in user retention and conversion rates",
+                        "Developed dynamic reporting features using MySQL indexing and Laravel to allow real-time reporting for students and advisors. This improved the performance of generating reports, reducing request times by 50% and decreasing report generation requests by 60%, boosting operational efficiency."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "Vue.js",
+                        "HTML5",
+                        "CSS",
+                        "Tailwind CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "Agile (Scrum)",
+                        "Trello/Asana",
+                        "Git, GitHub",
+                        "Docker",
+                        "NGINX",
+                        "PHPUnit",
+                        "Laravel Debugbar",
+                        "Role-based access control",
+                        "background task processing",
+                        "responsive UI",
+                        "performance optimization"
+
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Designed and deployed a two-panel system (Admin and Call Center dashboards) using PHP (Laravel) for backend development, enabling agents to access student details and log real-time reports, leading to a 70% increase in call volume and a 193% sales boost over six months.",
+                        "Automated the contact process with Redis for caching and MySQL for structured data storage while employing Python for advanced analytics, delivering accurate insights and reducing manual effort",
+                        "Migrated the frontend from HTML, CSS, JavaScript, Bootstrap, and jQuery to React/Next.js, improving performance, user experience, and scalability for modern web standards",
+                        "Automated payroll and commission systems for marketing teams, cutting down staffing needs by two accountants and reducing error rates in financial operations.",
+                        "Boosted customer satisfaction from 73% to 96% over three quarters by implementing agile development methodologies, holding bi-weekly sprint reviews, and swiftly addressing user feedback",
+                        "Leveraged CI/CD pipelines to streamline deployments, ensuring faster iteration cycles and stability during feature rollouts."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "Backend: PHP (Laravel)",
+                        "Python",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "jQuery",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies",
+                        "Sprint reviews",
+                        "Laravel Queues",
+                        "Automation",
+                        "real-time reporting",
+                        "data-driven",
+                        "decision-making",
+                        "performance optimization"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}

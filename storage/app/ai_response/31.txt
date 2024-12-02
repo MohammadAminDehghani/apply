@@ -1,0 +1,199 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Full-Stack Engineer with over 5 years of experience in developing clean and reusable code, proficient in Node.js, TypeScript, and Laravel. Experienced in microservices architecture, cloud solutions (AWS, GCP), and building scalable web applications. Strong focus on structured coding, system optimization, and enhancing performance. Exceptional team collaborator committed to delivering high-quality projects.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Node.js & Express.js",
+            "PHP & Laravel",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Vue.js & Gatsby",
+            "JavaScript & TypeScript",
+            "HTML & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "CI/CD (Bamboo, CodePipeline)",
+            "Redis",
+            "AWS & GCP",
+            "Kubernetes",
+            "DevOps Practices"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Enhanced profiling platform by reconstructing backend with Node.js, improving data processing speed and system resilience.",
+                        "Upgraded frontend using React and TypeScript, ensuring faster page loads and dynamic user interfaces.",
+                        "Integrated AWS Lambda to automate data collection and updating processes, ensuring the continuous availability of fresh data.",
+                        "Implemented scalable API services utilizing AWS, enhancing the platform's capacity to handle increasing data loads.",
+                        "Optimized database queries with MySQL and MongoDB, ensuring efficient data retrieval and storage for enhanced performance."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "TypeScript",
+                        "MySQL",
+                        "MongoDB",
+                        "AWS Lambda",
+                        "CI/CD"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Streamlined platform with Node.js and Laravel to support user registration, reducing system lag during peak hours.",
+                        "Established CI/CD pipelines with CodeCommit, automating deployment processes and reducing release time by 60%.",
+                        "Implemented automated testing scripts with TypeScript, increasing test coverage and reliability.",
+                        "Optimized report generation using AWS and Laravel scheduling, cutting down resource usage by 40%."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "AWS",
+                        "CI/CD pipelines",
+                        "CodeCommit"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Constructed scalable platform with Laravel and Node.js, integrating role-based access and streamlined data processing.",
+                        "Improved submission accuracy with Node.js, reducing errors in tax filing operations by 60%.",
+                        "Utilized Redis for caching to enhance data request handling and load management.",
+                        "Executed Kubernetes for microservices management, ensuring robust deployment and monitoring."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Node.js",
+                        "React",
+                        "Redis",
+                        "Kubernetes",
+                        "AWS"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Enhanced customization algorithms with Laravel, achieving 90% accuracy in personalized study plans.",
+                        "Accelerated data handling with Redis, increasing user response time by 50% during peak periods.",
+                        "Developed interactive learning tools using Vue.js, increasing student engagement metric scores."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "AWS",
+                        "Docker",
+                        "Agile (Scrum)"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes.",
+                    "achievements": [
+                        "Deployed Node.js for backend operations and leveraged React for scalable frontend solutions.",
+                        "Achieved 75% reduction in call handling time with a redesigned contact management system.",
+                        "Transformed customer experience using Redis caching, supporting faster data access."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "React",
+                        "MySQL",
+                        "Redis",
+                        "Docker",
+                        "AWS",
+                        "CI/CD"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

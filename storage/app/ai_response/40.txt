@@ -1,0 +1,189 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Front-End Focused Full-Stack Developer with over 5 years of experience, specializing in React, Node.js, and PHP (Laravel) for creating scalable, high-performance web applications. Proficient in aligning front-end components with back-end services, ensuring intuitive user experiences. Expertise in database management (MySQL, MongoDB) and API integrations. Committed to continuous learning and delivering user engagement-driven innovative solutions.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Node & Express",
+            "PHP & Laravel",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React",
+            "JavaScript & TypeScript",
+            "HTML5 & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "SQL & NoSQL Databases",
+            "Agile Methodologies (Scrum, JIRA)",
+            "CI/CD Pipelines",
+            "Unit Testing"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Enhanced user interface with React and Next.js, delivering a responsive and seamless experience across devices while optimizing page loading efficiency.",
+                        "Integrated robust backend services using Node.js and PHP (Laravel) to ensure seamless data processing and API connectivity for professor profiles.",
+                        "Implemented web scraping for up-to-date professor information, utilizing OpenAI for personalized email correspondence, improving user engagement."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "Node.js",
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "MongoDB",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Built a scalable platform using PHP (Laravel) and MySQL, automating user registration and information flow, enhancing system capacity by 25%.",
+                        "Optimized email handling and peak load performance using Laravel Queues, improving user registration efficiency by over 60%.",
+                        "Streamlined reporting processes with Laravel Scheduling, reducing report generation time by 50%."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Streamlined multi-level platform architecture and access control using Laravel, enhancing platform security and scalability.",
+                        "Increased compliance in invoice management through Laravel's robust job handling, reducing error rate by 2%.",
+                        "Accelerated contract processes and significantly increased development velocity by employing Agile and Scrum methodologies."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Next.js",
+                        "Bootstrap",
+                        "Laravel Queues"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Automated personalized study plan generation using Laravel, reducing manual processes by 80% and scaling student engagement fivefold.",
+                        "Integrated efficient data handling and reporting features with Laravel Queues and MySQL, boosting user conversion and retention rates.",
+                        "Enhanced platform responsiveness and performance by optimizing Laravel backend and employing efficient caching strategies."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "HTML5",
+                        "CSS",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Implemented a high-performance two-panel system through PHP (Laravel) and React, increasing operational capacity by 70%.",
+                        "Migrated to React/Next.js improving UI efficiency and applying Redis for dynamic data handling.",
+                        "Incorporated Agile methodologies for effective project delivery while enhancing team collaboration and deployment speed."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Full Stack Developer position. With over five years of hands-on experience focusing on creating robust and interactive web applications, I am confident in my ability to contribute significantly to your team. My expertise lies in developing seamless frontend interfaces with React and ensuring efficient backend integration with Node.js and PHP (Laravel).\n\nIn my previous roles, I have successfully built dynamic platforms and integrated various web applications, consistently improving performance and user engagement. My hands-on experience with cutting-edge technologies allows me to construct scalable and maintainable applications, aligning with best development practices.\n\nI thrive in collaborative environments and enjoy working with cross-functional teams to achieve common goals, fostering a culture of continuous improvement and innovation.\n\nThank you for considering my application. I look forward to the possibility of discussing how I can bring my expertise to your esteemed organization.\n\nSincerely,\n\n[Your Name]"
+}

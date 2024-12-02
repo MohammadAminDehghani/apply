@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Lead Front-End Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Front-End Developer with over 5 years of experience in JavaScript, specializing in Vue.js and developing scalable, high-performance web applications. Proven leadership skills with 1+ years as a Team Lead, adept at driving team productivity, and removing obstacles. Strong expertise in frontend technologies (JavaScript, HTML5, CSS3) and enterprise application development. Collaborative team player committed to technical excellence and innovative projects that drive user engagement and revenue.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "Vue.js & React",
+            "JavaScript & ES6+",
+            "HTML5 & CSS3"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Agile Methodologies (Scrum, JIRA)",
+            "CI/CD pipelines",
+            "Web Performance Optimization"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Enhanced the frontend by developing a responsive user interface with Vue.js, improving user engagement and accessibility across devices.",
+                        "Implemented web scraping techniques to aggregate professor profiles, ensuring data accuracy and leveraging MySQL for efficient data storage.",
+                        "Integrated OpenAI APIs to generate personalized emails for students, automating outreach and improving engagement with professors."
+                    ],
+                    "tech_stack": [
+                        "Vue.js",
+                        "Next.js",
+                        "MySQL",
+                        "OpenAI API",
+                        "Web Scraping"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Led frontend development using Vue.js to build an intuitive interface, enhancing user experience and ensuring high performance during peak loads.",
+                        "Implemented Vue Router and state management to streamline navigation and improve application efficiency, handling high traffic effortlessly.",
+                        "Utilized Laravel API integration with Vue.js to automate data reporting, significantly improving operational efficiency and accuracy."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Developed a Vue.js frontend for the tax invoice system, reducing error rates in submissions from 3% to 1% and handling peak user requests efficiently.",
+                        "Collaborated in agile sprints to optimize frontend features, increasing development speed by over 60% and enhancing user interface elements.",
+                        "Enhanced MySQL database performance and front-end data fetch logic to enable real-time updates and improved user interaction."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "React",
+                        "MySQL",
+                        "Scrum framework"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Created a responsive frontend using Vue.js for generating personalized study plans, improving user engagement and reducing manual errors.",
+                        "Optimized data display speeds with Vue.js state management, enhancing performance by 40% during high-demand periods.",
+                        "Implemented interactive learning tools using JavaScript, which boosted user engagement significantly."
+                    ],
+                    "tech_stack": [
+                        "Vue.js",
+                        "Laravel",
+                        "MySQL",
+                        "JavaScript",
+                        "Tailwind CSS"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Migrated existing frontend to Vue.js, enhancing the user interface and scalability while reducing page load times by 30%.",
+                        "Automated contact processes using modern JavaScript libraries, cutting manual operations and delivering more accurate data insights.",
+                        "Enhanced Agile practices by introducing state management in Vuex, resulting in faster deployments and improved teamwork in handling user feedback."
+                    ],
+                    "tech_stack": [
+                        "Vue.js",
+                        "Laravel",
+                        "MySQL",
+                        "JavaScript",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

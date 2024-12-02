@@ -1,0 +1,203 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience specializing in MVC architecture with PHP (Laravel) and JavaScript. Passionate about crafting high-quality, scalable web applications. Experienced in backend technologies with PHP (Laravel), and proficient in frontend development using Angular.js, React, and Vue.js. Strong expertise in database management (MySQL, MongoDB) and API integrations. Excel in troubleshooting, innovation, and delivering robust solutions that drive user engagement and revenue.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Vue & Angular.js",
+            "JavaScript & TypeScript",
+            "HTML5 & CSS3 & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "CI/CD Processes",
+            "Wordpress"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Developed a robust backend using Python (Django) and scalable API services for reliable data processing, utilizing MySQL and MongoDB for data management.",
+                        "Built a responsive user interface with React and Next.js, optimizing page load times for seamless user experience, demonstrating proficiency in HTML5 and CSS3.",
+                        "Implemented web scraping techniques to maintain up-to-date information, enhancing the platform's reliability and user engagement.",
+                        "Leveraged OpenAI APIs to automate personalized email generation, improving user outreach through smart technological solutions.",
+                        "Utilized CI/CD pipelines to ensure rapid, stable deployments, streamlining the development process."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "Web Scraping",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users.",
+                    "achievements": [
+                        "Engineered a Laravel-based platform to automate report generation, improving operational efficiency and enhancing user experience.",
+                        "Optimized Laravel Jobs and Queues to handle over 3,000 daily registrations, ensuring system reliability during peak loads.",
+                        "Streamlined database processes with MySQL and utilized scheduling tools to enhance data reporting and manager insights."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Developed a contract and invoice management system, integrating Laravel for role-based access control and dynamic reporting.",
+                    "achievements": [
+                        "Streamlined invoice submissions using Laravel Jobs and Queues, reducing errors and server load significantly.",
+                        "Enhanced invoice management for compliance, improving processing accuracy for 1,000+ companies.",
+                        "Adopted Agile methodology, increasing development velocity by over 60% by using Scrum frameworks and efficient database designs."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Bootstrap",
+                        "MySQL",
+                        "jQuery",
+                        "Laravel Queues",
+                        "Agile methodologies",
+                        "Scrum framework"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans.",
+                    "achievements": [
+                        "Automated creation of study plans with Laravel, improving scalability and reducing processing time by 80%.",
+                        "Optimized Laravel Queues and email tools, enhancing onboarding time and increasing user retention by 25%.",
+                        "Enhanced database performance with MySQL optimizations, improving query execution by 40%.",
+                        "Implemented caching and reporting features, optimizing backend operations and reducing server load."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "Vue.js",
+                        "MySQL",
+                        "HTML5",
+                        "CSS",
+                        "JavaScript",
+                        "Redis",
+                        "Agile (Scrum)"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a two-panel application to streamline advertising and contact processes, optimizing performance.",
+                    "achievements": [
+                        "Implemented a two-panel system using PHP (Laravel), increasing call volume and sales significantly.",
+                        "Migrated frontend to React/Next.js, enhancing performance and user experience by automating processes.",
+                        "Boosted customer satisfaction and operational efficiency, using Agile methodologies and CI/CD pipelines."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "React",
+                        "Next.js",
+                        "JavaScript",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Full Stack Developer position at Ictinus. With over 5 years of experience and a solid background in MVC architecture, I am drawn to your team's dedication to solving complex problems and fostering innovation. I am particularly excited about the opportunity to work with a company that values passion and continuous learning.\n\nMy recent projects have honed my skills in PHP (Laravel), Angular.js, and React, and I am eager to apply this expertise in a dynamic team. I am passionate about developing efficient solutions and sharing my experiences with others, aligning perfectly with Ictinus’s emphasis on collaboration and knowledge sharing.\n\nI am thrilled at the prospect of contributing to Ictinus's mission and am eager to bring my technical acumen, problem-solving capabilities, and positive outlook to your team. Thank you for considering my application. I look forward to discussing how I can contribute to your organization.\n\nKind regards,\n\n[Your Name]"
+}

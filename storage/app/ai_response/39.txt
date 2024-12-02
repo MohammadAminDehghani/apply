@@ -1,0 +1,179 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Backend Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Backend Developer with over 5 years of experience in PHP (Laravel) and Python (Django), specializing in developing scalable, high-performance RESTful APIs. Skilled in backend technologies (PHP, Python) with a strong expertise in database management (MySQL, MongoDB), API integrations, and cloud deployment strategies. Collaborative team player with a proven track record of successful remote work. Committed to continuous learning, technical excellence, and contributing to innovative projects.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Python & Django",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React",
+            "Vue.js",
+            "JavaScript",
+            "HTML5 & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "CI/CD Pipeline Management",
+            "Docker",
+            "AWS (Basic)",
+            "GCP (Basic)",
+            "Redis",
+            "Agile Methodologies (Scrum)",
+            "Object-Oriented Programming (OOP)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Developed a robust backend using Python (Django) and integrated scalable API services, enhancing data processing efficiency for professor profiles.",
+                        "Implemented Web Scraping techniques to collect and update detailed professor profiles, ensuring up-to-date information accessibility for users.",
+                        "Utilized MySQL and MongoDB to manage structured and unstructured data effectively, supporting dynamic content for universities and professors."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "web scraping"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Designed a data-driven platform using Laravel and MySQL, managing personal information while automating reporting processes for enhanced managerial insights.",
+                        "Employed Laravel Scheduling and Queues to handle high-volume transactions and reporting, ensuring uninterrupted service during peak loads."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Implemented a multi-level architecture with role-based access using Laravel's Guard, ensuring efficiency in invoice submissions.",
+                        "Optimized MySQL database performance through indexing for efficient retrieval, reducing request load and enhancing compliance management."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Created automated study plans using Laravel, significantly increasing platform scalability and plan accuracy, tailored to individual needs."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "Vue.js"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes.",
+                    "achievements": [
+                        "Successfully deployed a streamlined two-panel system to enhance call center efficiency using PHP (Laravel) and MySQL, improving sales performance."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "React"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "I am writing to express my interest in the Senior Backend Developer position at Sportlogiq. With over 5 years of experience in backend development and a robust expertise in PHP (Laravel) and Python (Django), I am well-equipped to design and build scalable and secure RESTful APIs as highlighted in your job description.\n\nMy prior roles have provided me with significant experience in developing cloud-native applications using AWS, as well as an understanding of serverless architectures and microservices frameworks. I am adept in deploying production-ready environments, thanks to my proficiency in CI/CD pipeline automation. Moreover, my extensive work with database systems, including MySQL and MongoDB, provides a ready foundation for managing data warehousing operations efficiently.\n\nI am passionate about technology's ability to solve practical problems, which aligns with Sportlogiq's approach towards continuous innovation in a collaborative environment. I am eager to bring my technical skills and enthusiasm to your team and contribute to your exciting initiatives within the sports domain.\n\nThank you for the opportunity to apply. I look forward to the possibility of discussing my application in more detail.\n"
+}

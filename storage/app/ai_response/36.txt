@@ -1,0 +1,190 @@
+```json
+{
+    "personal_info": {
+        "name": "",
+        "title": "PHP Web Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Seasoned PHP Web Developer with over 5 years of experience specializing in creating standards-compliant and scalable web applications using PHP (Laravel) and JavaScript. Skilled in developing high-performance frontend and backend systems with strong expertise in WordPress and Drupal. Proficient in leveraging MySQL for database management and optimizing performance. Team-oriented professional committed to providing technical solutions that enhance user engagement and business outcomes.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "MySQL",
+            "SQL & Database Design",
+            "RESTful APIs",
+            "Node & Express"
+        ],
+        "hard_skills_frontend": [
+            "React & Vue.js",
+            "JavaScript & jQuery",
+            "HTML5 & CSS & SASS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Linux",
+            "Apache & NGINX",
+            "Agile Methodologies (Scrum, JIRA)",
+            "WordPress & Drupal",
+            "Performance Optimization",
+            "Object-Oriented Programming (OOP)",
+            "SEO Best Practices"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Lead developer on a platform to assist students in selecting professors based on their interests, seamlessly integrating current academic research profiles.",
+                    "achievements": [
+                        "Developed a scalable backend using PHP (Laravel), ensuring robust processing of research profiles and data.",
+                        "Designed a responsive and seamless user interface using React, significantly enhancing user engagement and interaction.",
+                        "Implemented efficient data collection strategies using APIs for dynamic content management, ensuring up-to-date professor information."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "APIs",
+                        "Git"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed a robust platform for documenting user registration and contract management, designed for large-scale use.",
+                    "achievements": [
+                        "Engineered the backend with Laravel to handle high-volume user registration data efficiently.",
+                        "Streamlined the contract management process using Laravel Queues, reducing processing errors and improving reliability.",
+                        "Implemented agile methodologies to enhance project lifecycle and sprints, boosting development efficiency."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "JavaScript",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Agile"
+                    ]
+                },
+                {
+                    "summary": "Optimized a web platform for facilitating tax invoice submissions and contract finalizations.",
+                    "achievements": [
+                        "Enhanced the tax submission process, reducing error rates by implementing role-based controls in Laravel.",
+                        "Optimized query performance with MySQL cube for efficient data retrieval.",
+                        "Adopted agile practices to iteratively develop features, leading to faster deployments and improved compliance with tax regulations."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "HTML & CSS",
+                        "MySQL",
+                        "Bootstrap"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Architected an innovative educational platform for personalized study plans, leveraging modern web technologies for automated scheduling.",
+                    "achievements": [
+                        "Automated the creation of personalized study schedules, increasing platform user capacity by 500% while maintaining performance.",
+                        "Implemented database indexing and query optimizations in MySQL, enhancing data retrieval and operational speed by 40%.",
+                        "Developed dynamic reporting and notification systems, reducing server load during peak activities by 30% through optimized caching."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "CI/CD"
+                    ]
+                },
+                {
+                    "summary": "Developed an advanced call center and administration panel application to optimize operations and advertising efficiency.",
+                    "achievements": [
+                        "Implemented a two-panel system allowing agents real-time reporting, drastically improving call handling and sales metrics.",
+                        "Enhanced application performance and scalability through React/Next.js migration and Redis-based caching.",
+                        "Led agile adoption in project cycles, reducing deployment times and increasing stakeholder satisfaction through iterative improvements."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Redis",
+                        "Git & GitHub"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}
+```

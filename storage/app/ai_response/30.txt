@@ -1,0 +1,193 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "PHP Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "PHP Developer with over 5 years of experience, specializing in B2B web portals with full-stack expertise. Proficient in PHP frameworks, specifically Laravel, and frontend technologies like React and Vue.js. Expertise in SQL databases, API integrations, and developing high-performance web applications. Committed to delivering efficient, scalable solutions and enhancing user experience through collaborative and innovative approaches.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript & jQuery",
+            "HTML5 & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "SQL Databases",
+            "Docker",
+            "Agile Methodologies (Scrum)",
+            "SEO",
+            "API Integration (Third-Party)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Engineered a scalable backend using PHP (Laravel) for efficient data processing and integration with multiple APIs, enhancing usability and performance.",
+                        "Built an intuitive user interface using React, ensuring consistent user engagement through responsive design and quick load times.",
+                        "Implemented an API-driven approach to support dynamic data management and structured users' experiences, securing seamless data handling across the platform."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "API integrations",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, providing scalable and efficient operations for over 200,000 users.",
+                    "achievements": [
+                        "Architected and coded a secure, scalable platform using Laravel, improving data input workflows and automating daily reporting functionalities.",
+                        "Integrated Laravel Queues to manage high-volume email confirmations, ensuring seamless user interactions and reducing errors during peak traffic.",
+                        "Utilized Laravel Scheduling to automate critical processes and enhance operational dynamicity, improving efficiency by automating report generation."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Managed a dual-platform integration for a company with a focus on user registration, contract management, and taxation.",
+                    "achievements": [
+                        "Streamlined tax-related processes using Laravel Jobs and Queues, enhancing accuracy and efficiency of invoice processing for over 1,000 businesses.",
+                        "Built a responsive and secure contract management system, reducing processing intervals and optimizing company-wide submissions and workflows.",
+                        "Adopted Agile methodologies with Scrum to iterate and deliver consistent software updates, improving team productivity and project visibility."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Bootstrap",
+                        "HTML5",
+                        "jQuery",
+                        "MySQL",
+                        "Agile methodology"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Designed and developed Kabonto, a platform offering students personalized exam study plans and automated schedules.",
+                    "achievements": [
+                        "Automated study plan generation using Laravel, adapting plans to individual student needs and reducing manual input time significantly.",
+                        "Enhanced user engagement and retention by optimizing the platform with Laravel Queues, boosting conversion rates through efficient, personalized experiences.",
+                        "Elevated database performance with query optimizations, greatly enhancing report generation speed and user access to critical information."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "HTML5",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "Trello"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel application to streamline advertising and contact processes for client management.",
+                    "achievements": [
+                        "Created a two-panel application framework using PHP (Laravel) to enhance operational workflows and reporting, increasing efficiency exponentially.",
+                        "Migrated frontend to React/Next.js for improved user interface performance and scalability.",
+                        "Automated task processes using Redis and Laravel, ensuring robust data management and staff resource optimization."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

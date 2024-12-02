@@ -1,0 +1,188 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Web Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Detail-oriented Full-Stack Web Developer with 5 years of experience, specializing in PHP and JavaScript to build high-quality web applications. Proven track record in collaborating with cross-functional teams, integrating feedback to drive innovation, and managing multiple priorities effectively. Experienced in optimizing website performance and applying new technological trends like AI in project solutions. Committed to delivering projects that align with user needs and enhance digital presence.",
+    "skills": {
+        "soft_skills": [
+            "Attention to Detail",
+            "Problem Solving",
+            "Collaboration and Teamwork",
+            "Openness to Ideas",
+            "Priority Management"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "WordPress CMS",
+            "MySQL",
+            "RESTful APIs",
+            "Object-Oriented Programming (OOP)"
+        ],
+        "hard_skills_frontend": [
+            "JavaScript & jQuery",
+            "HTML5 & CSS",
+            "Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Advanced Custom Fields (ACF)",
+            "Roots.io Tools (Bedrock, Sage, Acorn)",
+            "Figma",
+            "SEO",
+            "Agile Methodologies (Scrum)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed a user-centric platform facilitating access to research information on professors matching student interests across North America.",
+                    "achievements": [
+                        "Designed a scalable WordPress-based solution enabling seamless information retrieval and personalization, utilizing PHP and ACF for customization.",
+                        "Collaborated with designers to create responsive layouts using HTML5/CSS, ensuring accessibility compliance and enhanced user engagement.",
+                        "Employed JavaScript to integrate dynamic front-end elements and animations, enhancing interactivity and user experience.",
+                        "Conducted SEO optimization, leading to a 30% increase in organic traffic and improved site visibility."
+                    ],
+                    "tech_stack": [
+                        "WordPress",
+                        "PHP",
+                        "JavaScript",
+                        "HTML5",
+                        "CSS",
+                        "ACF",
+                        "SEO"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed a comprehensive platform to support the needs of undocumented immigrants, focusing on scalability and performance.",
+                    "achievements": [
+                        "Utilized Laravel for backend development ensuring secure and efficient handling of sensitive user data.",
+                        "Created Docker containers to streamline deployment processes and improve development workflow.",
+                        "Automated reporting to aid managerial decision-making using Laravel's Scheduler, enhancing project management efficiency."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Docker",
+                        "HTML",
+                        "CSS",
+                        "Laravel Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Engineer a dual-platform system for handling user registration and fiscal documentation with role-based access.",
+                    "achievements": [
+                        "Implemented role-based access control mechanisms using Laravel Guard to enhance data security and efficiency.",
+                        "Led the integration of Laravel Queues for asynchronous processing of invoice submissions, improving server reliability."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Bootstrap",
+                        "jQuery",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Pioneered the development of Kabonto, optimizing educational processes through tailored study plans.",
+                    "achievements": [
+                        "Introduced automated generation of personalized study plans using Laravel, significantly reducing required resources.",
+                        "Enhanced site functionality and user engagement by incorporating interactive JavaScript-based learning tools."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "JavaScript",
+                        "Vue.js",
+                        "Bootstrap",
+                        "Docker",
+                        "MySQL"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel management system to optimize inbound marketing and communication operations.",
+                    "achievements": [
+                        "Implemented an advanced analytics system combining Redis and MySQL for efficient data handling and insights generation.",
+                        "Facilitated development workflow efficiencies using CI/CD pipelines, resulting in a 70% improvement in code deployment times."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React",
+                        "Next.js",
+                        "Redis",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "Dear [Hiring Manager's Name],\n\nI am writing to express my enthusiasm for the Developer Web Full-Stack position as advertised. With 5 years of comprehensive experience in both front-end and back-end development, I bring a deep understanding of web technologies and proficiency in PHP, JavaScript, and various modern frameworks that will add value to your team.\n\nMy career has given me the opportunity to develop robust platforms and innovative solutions that meet diverse business requirements. I have successfully demonstrated my capabilities in supporting collaborative efforts, managing priorities across projects, and integrating feedback to drive continuous improvement and innovation in my work.\n\nIn previous roles, I crafted scalable web applications using Laravel and JavaScript, enhancing platform efficiency while ensuring responsiveness and optimal user experiences. My strong command of SEO and accessibility standards in HTML and CSS, coupled with interactive tools like ACF in WordPress, ensures the delivery of top-notch digital experiences that resonate with users and stakeholders alike.\n\nI am particularly drawn to this role because it offers the chance to work collaboratively with a team of designers, marketers, and other developers to create cutting-edge and user-driven solutions. I am eager to apply new technological trends and methodologies to enhance your digital projects and align them with your strategic goals.\n\nThank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and enthusiasms align with the exciting work being done at [Company Name].\n\nSincerely,\n\n[Your Name]"
+}

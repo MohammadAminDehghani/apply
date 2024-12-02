@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Junior Frontend Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Enthusiastic Frontend Developer with 5 years of experience in crafting dynamic web applications using modern JavaScript frameworks. Proficient in React, Redux, and TypeScript, aimed at delivering seamless user experiences and intuitive interfaces. Demonstrated expertise in building responsive, high-performance applications with a focus on user-centered design principles. Experienced in remote collaboration within cross-functional teams to innovate and enhance user and client experiences in scalable projects.",
+    "skills": {
+        "soft_skills": [
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability",
+            "User Experience Advocacy"
+        ],
+        "hard_skills_backend": [
+            "comment_for_ai: you can change this section to an empty string if you think this is a frontend-focused job and backend skills are not required."
+        ],
+        "hard_skills_frontend": [
+            "React & TypeScript",
+            "JavaScript & Redux",
+            "HTML5 & CSS3 & Bootstrap",
+            "Styled-components",
+            "Jest & Testing"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "CI/CD pipelines",
+            "Agile Methodologies (Scrum, JIRA)",
+            "AWS & GCP (basic)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed advanced web applications with a focus on responsive design and cross-device compatibility, collaborating remotely with teams across North America.",
+                    "achievements": [
+                        "Developed a suite of interactive dashboards using React, TypeScript, and Redux, enabling real-time data visualization and insights for users.",
+                        "Optimized front-end components for usability and performance, collaborating with UX/UI designers to ensure adherence to user-centered design principles.",
+                        "Implemented API integrations to facilitate seamless data exchange, improving the efficiency of user interactions within the platform.",
+                        "Set up automated Jest tests for code integrity, reducing manual QA efforts and boosting application reliability.",
+                        "Advocated for continuous improvement in user experience design, leading to a 25% increase in user engagement metrics."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "TypeScript",
+                        "Redux",
+                        "Styled-components",
+                        "Jest",
+                        "REST APIs"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Contributed to the development of an intuitive application platform in the financial services sector, largely improving client interaction with data-driven solutions.",
+                    "achievements": [
+                        "Integrated third-party APIs to extend platform functionalities, enhancing user engagement and interaction.",
+                        "Led the migration of front-end JavaScript to TypeScript, reducing bugs by 14% and increasing maintainability of the codebase.",
+                        "Designed and implemented responsive, high-performance UI components to elevate user accessibility and experience."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "TypeScript",
+                        "Jest",
+                        "Bootstrap",
+                        "API Integration"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Spearheaded front-end development initiatives to enhance performance and reliability of education-based platforms.",
+                    "achievements": [
+                        "Led front-end revamps for multiple student-focused platforms using React, significantly improving page load times and user satisfaction.",
+                        "Utilized Agile methodologies to drive development sprints, fostering quicker iteration on user feedback and reducing deployment times by 60%.",
+                        "Introduced unit testing frameworks to detect bugs early in the development cycle, ensuring higher delivery quality without increasing QA workload."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Jest",
+                        "HTML5",
+                        "CSS3",
+                        "Redux",
+                        "Bootstrap",
+                        "Git, GitHub"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}

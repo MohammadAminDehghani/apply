@@ -1,0 +1,191 @@
+```json
+{
+    "personal_info": {
+        "name": "",
+        "title": "ReactJS Developer",
+        "phone": "",
+        "email": "",
+        "address": "Montreal, QC, Canada",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Frontend Developer with over 5 years of experience, specializing in developing scalable, high-performance web applications using JavaScript and React. Proficient in React.js and frontend development, with a strong background in backend technologies and API integrations. Skilled in state management, server-side rendering, and optimizing performance. Collaborative team player committed to technical excellence and innovative projects that enhance user engagement.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            ""
+        ],
+        "hard_skills_frontend": [
+            "React.js & Next.js",
+            "JavaScript (ES6+) & TypeScript",
+            "HTML5 & CSS3 & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git & GitHub",
+            "Agile Methodologies (Scrum, JIRA)",
+            "State Management (Redux, Context API)",
+            "Version Control Systems",
+            "RESTful APIs"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Montreal, QC, Canada (Relocated)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Built an intuitive and responsive user interface with Next.js and React, enabling fast page loads and excellent user experience across devices.",
+                        "Utilized Google and LinkedIn APIs for secure and seamless user authentication with JWT-based management.",
+                        "Leveraged OpenAI APIs for analyzing professor pages, enhancing the relevance of content displayed to users.",
+                        "Implemented CI/CD pipelines for regular deployment and automated testing of the web application components."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "RESTful APIs"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Montreal, QC, Canada",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants using React and Laravel, efficiently managing high user loads.",
+                    "achievements": [
+                        "Integrated Jobs and Queues in Laravel with a React frontend, ensuring user interface remained responsive during back-end processing.",
+                        "Optimized data retrieval using React state management tools resulting in reduced client-server communication overhead.",
+                        "Streamlined operations by integrating automated processes, reducing manual report generation significantly."
+                    ],
+                    "tech_stack":   [
+                        "React",
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                },
+                {
+                    "summary": "Developed interconnected platforms for user registration, contract management, and tax invoice submissions with enhanced UI/UX on React.",
+                    "achievements": [
+                        "Migrated user interfaces to React/Next.js for better performance and scalability.",
+                        "Implemented component-based architecture in React to facilitate easy updates and maintenance of the frontend.",
+                        "Enhancement of UI interactivity using Bootstrap and custom CSS frameworks."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "PHP (Laravel)",
+                        "Bootstrap",
+                        "HTML5",
+                        "CSS",
+                        "MySQL"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Start-Up",
+            "location": "Montreal, QC, Canada",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the development of a platform for automated personalized study schedules, utilizing React for modular and scalable frontend architecture.",
+                    "achievements": [
+                        "Utilized React to develop interactive study planning tools, enhancing user engagement and simplifying scheduling.",
+                        "Implemented responsive design principles using CSS and Tailwind CSS to ensure compatibility across devices.",
+                        "Deployed components to manage data fetching and rendering, reducing average data processing time significantly."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "Vue.js",
+                        "CSS",
+                        "Tailwind CSS",
+                        "Git, GitHub"
+                    ]
+                },
+                {
+                    "summary": "Developed a comprehensive application with automated contact processes and analytics, transitioning the frontend to React for better UX.",
+                    "achievements": [
+                        "Transitioned existing interfaces to React, improving performance and scalability with modern web standards.",
+                        "Implemented caching mechanisms to optimize data loading, enhancing page response times noticeably.",
+                        "Utilized CI/CD for streamlined code deployments and reduced development cycle times."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "PHP (Laravel)",
+                        "Python",
+                        "HTML5",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}
+```

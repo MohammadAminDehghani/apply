@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full-Stack Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Highly skilled Full-Stack Developer with over 5 years of experience in PHP and JavaScript. Adept at developing scalable and high-performance web applications under fast-paced environments. Expertise in PHP MVC frameworks and modern JavaScript frameworks such as React. Proficient in database management, application optimization, and enhancing user engagement and experience. Strong team player experienced in agile environments, committed to maintaining high standards of quality and continuous improvement.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js",
+            "JavaScript",
+            "HTML5 & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Databases (SQL, NoSQL)",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI/CD)",
+            "Caching Systems (Redis)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Built an intuitive user interface with React, delivering a responsive and seamless user experience across devices while optimizing page load times.",
+                        "Implemented Web Scraping techniques to collect detailed professor profiles, maintaining up-to-date information for users.",
+                        "Leveraged OpenAI APIs to generate personalized emails tailored to student interests, automating outreach and improving engagement."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "web scraping",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Designed a platform using Laravel and MySQL, automating reporting for managers, thus streamlining operations.",
+                        "Handled heavy email confirmations using Laravel Queues, ensuring seamless user experiences during high loads.",
+                        "Employed data chunking techniques, enhancing report preparation efficiency for managerial insights."
+                    ],
+                    "tech_stack":   [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Implemented a multi-level architecture with role-based access using Laravel, ensuring efficient operations.",
+                        "Reduced errors in invoice submissions with Laravel Jobs and Queues, enhancing server stability during peak usage.",
+                        "Optimized MySQL performance, improving data retrieval and reducing report generation by significant margins."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Bootstrap",
+                        "HTML5",
+                        "CSS",
+                        "jQuery",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams.",
+                    "achievements": [
+                        "Automated personalized study plans using Laravel, scaling the platform to accommodate more students efficiently.",
+                        "Enhanced onboarding by integrating Laravel Queues, reducing onboarding time and improving conversion rates.",
+                        "Improved MySQL database performance, significantly speeding up data retrieval during high-traffic periods."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Redis",
+                        "HTML5",
+                        "CSS",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline processes and enhance operations.",
+                    "achievements": [
+                        "Developed a two-panel system with Laravel, boosting call volume efficiency and sales increases.",
+                        "Migrated frontend to React, improving performance and user experience with Next.js for scaling.",
+                        "Implemented Agile methodologies, automating key workflows and ensuring rapid, stable deployments."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "React",
+                        "Next.js",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

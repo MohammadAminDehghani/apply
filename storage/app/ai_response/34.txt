@@ -1,0 +1,193 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Experienced Full Stack Developer with over 5 years of expertise in designing, developing, and maintaining scalable web applications. Proficient in PHP (Laravel), Node.js, and Python (Django) for backend development, and React and Vue.js for frontend. Skilled in API integrations, database management with MySQL and MongoDB, and optimizing performance. Collaborative with strong leadership skills and a commitment to secure coding practices and continuous learning.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "Python & Django",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React",
+            "Vue.js",
+            "JavaScript",
+            "HTML5",
+            "CSS3"
+        ],
+        "hard_skills_tools": [
+            "Git",
+            "CI/CD pipelines",
+            "Docker",
+            "Redis",
+            "Agile Methodologies",
+            "Secure Coding Practices",
+            "Vulnerability Management",
+            "Unit and Integration Testing"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Designed a responsive, user-friendly interface with React and Next.js, improving user engagement by 40%.",
+                        "Developed a secure API using Django for managing professor profiles, enhancing data reliability and processing speed.",
+                        "Integrated OpenAI and MySQL for personalized email recommendations, increasing user interaction by 35%."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed an efficient platform for undocumented immigrants supporting over 200,000 users.",
+                    "achievements": [
+                        "Engineered a scalable backend with PHP (Laravel) to handle high-traffic operations, optimizing server loads by 30%.",
+                        "Automated user registration and reporting workflows, reducing processing time by 60% using Laravel Queues.",
+                        "Enhanced database performance with indexing in MySQL, boosting query efficiency by 50%."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                },
+                {
+                    "summary": "Managed a contract and invoice platform for business clients to ensure timely tax compliance.",
+                    "achievements": [
+                        "Implemented role-based access and invoice management, reducing errors and improving system uptime by 20%.",
+                        "Optimized workflow automation, reducing contract processing time by 85% with Laravel.",
+                        "Enhanced query performance in MySQL, ensuring timely tax submissions for over 1,000 companies."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the development of Kabonto, a student-centered platform offering personalized study plan automation.",
+                    "achievements": [
+                        "Designed an automated study planner reducing manual effort by 80% and scaling student intake by 500%.",
+                        "Optimized onboarding with Laravel Queues, enhancing user retention by 25%.",
+                        "Implemented Laravel caching strategies to enhance data retrieval speeds, improving user experience."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Bootstrap",
+                        "Redis",
+                        "Docker"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel system for managing advertising and enhancing contact process efficiency.",
+                    "achievements": [
+                        "Developed an admin and call center dashboard that increased call-handling efficiency by 70%.",
+                        "Migrated frontend to React for improved scalability and UX, boosting customer satisfaction by 23%.",
+                        "Implemented CI/CD for faster, reliable deployments, decreasing downtime by 45%."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "React",
+                        "Next.js",
+                        "Redis",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}

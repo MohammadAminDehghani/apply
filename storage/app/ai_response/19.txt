@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Engineer with over 5 years of experience, specializing in developing scalable, high-performance web applications. Skilled in backend technologies (Node.js, PHP, RESTful APIs) and proficient in frontend development (React, Vue.js). Strong expertise in database management (MySQL, PostgreSQL), API integrations, and optimizing client-side performance. Collaborative team player with a track record of successful remote and in-office work. Committed to continuous learning, technical excellence, and contributing to innovative projects. Familiarities include AWS and GCP but seek further growth in cloud expertise.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Node & Express",
+            "PHP & Laravel",
+            "MySQL",
+            "PostgreSQL",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "Vue.js",
+            "React",
+            "JavaScript & TypeScript",
+            "HTML & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "GraphQL",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Webpack",
+            "CI/CD pipelines",
+            "Object-Oriented Programming (OOP)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Implemented new features and optimized frontend performance with Vue.js, ensuring responsive design and improved client-side load times.",
+                        "Conducted technical design and code reviews, enhancing code quality and maintainability.",
+                        "Developed a robust backend using Node.js and integrated scalable API services, ensuring reliable data processing and seamless user interface interactions.",
+                        "Utilized PostgreSQL for effective management of relational data, ensuring smooth data transactions."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "Vue.js",
+                        "PostgreSQL",
+                        "Webpack",
+                        "GraphQL"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Developed frontend components using Vue.js to enhance user experience and streamline operations.",
+                        "Handled Node.js backend processes to manage data processing efficiently with relational databases like MySQL.",
+                        "Contributed to agile development practices, enhancing responsiveness and system reliability."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "Vue.js",
+                        "MySQL",
+                        "Agile Methodologies"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Enhanced UI/UX with React, improving performance and user engagement.",
+                        "Utilized MySQL for efficient invoice data processing and management.",
+                        "Integrated GraphQL for API query flexibility and improved data retrieval efficiency."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Node.js",
+                        "MySQL",
+                        "GraphQL"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses. Introduced automation for generating study schedules without human intervention.",
+                    "achievements": [
+                        "Enhanced frontend using Vue.js to ensure user-friendly interfaces and interactive components.",
+                        "Improved backend processing with Node.js, supporting data-driven decision-making and real-time updates."
+                    ],
+                    "tech_stack": [
+                        "Vue.js",
+                        "Node.js",
+                        "MySQL",
+                        "CI/CD pipelines",
+                        "Agile (Scrum)"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Migrated frontend to React for enhanced performance and scalability.",
+                        "Automated workflows to increase operational efficiency and reduced manual efforts.",
+                        "Employed Jest for testing, ensuring reliability and robustness of applications."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Node.js",
+                        "Vue.js",
+                        "MySQL",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ],
+    "cover_letter": "Dear Hiring Manager,\n\nI am very excited to apply for the Full Stack Engineer position. With over 5 years of comprehensive experience in full-stack development, I possess a robust skill set in both backend and frontend technologies, including Vue.js, React, Node.js, and relational databases like MySQL and PostgreSQL. My professional journey has furnished me with extensive experience in delivering scalable and high-performance web applications while being part of dynamic and collaborative teams.\n\nIn previous roles, I have actively participated in tech stack familiarization processes, contributed to frontend enhancements, and ensured efficient backend processes to optimize client-side performance. I have a proven track record of conducting technical design and code reviews, which aligns with your current requirement for elevating the user experience through quality implementations and planning.\n\nFamiliar with AWS and GCP, I envision integrating cloud solutions into future projects effectively. My adaptability in working closely with design and product managers will contribute to a seamless UI/UX development to address user needs and trends.\n\nI am looking forward to the possibility of discussing how I can contribute to your team as it continues to grow and innovate. Thank you for considering my application.\n\nWarm regards,\n\n[Your Name]"
+}

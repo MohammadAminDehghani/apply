@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Front-End Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Passionate Front-End Developer with 5 years of experience in creating responsive web applications using React.js and Next.js. Proficient in writing clean, modular, and scalable code in TypeScript. Adept at collaborating with design teams to transform wireframes into user-friendly code. Committed to continuous learning and optimizing user experiences through feedback and innovation.",
+    "skills": {
+        "soft_skills": [
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Ownership and Accountability",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js",
+            "JavaScript & TypeScript",
+            "HTML5 & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Agile Methodologies (Scrum)",
+            "CI/CD pipelines",
+            "SEO",
+            "Object-Oriented Programming (OOP)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Developed a robust frontend with Next.js, delivering a responsive user experience and optimized page load times.",
+                        "Collaborated with design teams to transform wireframes into high-quality, user-friendly interfaces using React.",
+                        "Utilized MySQL and MongoDB to manage structured data, supporting dynamic content and improving database efficiency."
+                    ],
+                    "tech_stack": [
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Designed and developed the frontend for a user registration platform using React, enhancing user experience with responsive design.",
+                        "Streamlined API integrations and ensured smooth data exchange between frontend and backend systems."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Vue.js",
+                        "MySQL"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Optimized frontend performance using React and Next.js for real-time processing and data visualization.",
+                        "Built a user-friendly interface for tax invoice management, improving accuracy and submission times."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML",
+                        "CSS",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses.",
+                    "achievements": [
+                        "Built intuitive frontend interfaces using Vue.js and React, enhancing user engagement through interactive components.",
+                        "Reduced frontend response times by implementing efficient coding practices and optimizing resources."
+                    ],
+                    "tech_stack": [
+                        "Vue.js",
+                        "React",
+                        "HTML5",
+                        "CSS",
+                        "Bootstrap",
+                        "Tailwind CSS",
+                        "JavaScript",
+                        "Git, GitHub"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes.",
+                    "achievements": [
+                        "Designed interactive dashboards with React and Next.js for real-time data reporting and decision-making.",
+                        "Enhanced user interfaces with React components, improving operational efficiency and sales performance."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}

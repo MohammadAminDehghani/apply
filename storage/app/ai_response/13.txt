@@ -1,0 +1,187 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack PHP Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full Stack PHP Developer with over 5 years of experience designing, developing, and maintaining scalable web applications. Excels in PHP, MSSQL, MySQL, and JavaScript environments. Proven ability to translate complex business requirements into effective technical solutions, with a strong commitment to quality, security, and extensibility. Experienced in both backend and frontend technologies, API development, and cross-functional team collaboration. Continuously exploring new technologies and methodologies to provide impactful solutions.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Attention to Detail",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "MSSQL & MySQL",
+            "Node & Express",
+            "RESTful APIs",
+            "Database Architecture"
+        ],
+        "hard_skills_frontend": [
+            "JavaScript & jQuery & React.js",
+            "HTML5 & CSS & Bootstrap",
+            "Responsive Design"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "CI/CD Pipelines",
+            "Database Management",
+            "Agile Methodologies (Scrum)",
+            "OOP Principles",
+            "Version Control Systems"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Contributed to developing a platform for academic and professional profiles, enhancing user engagement through efficient data management.",
+                    "achievements": [
+                        "Developed a backend using PHP (Laravel), ensuring data integrity and swift processing for profile management and user interactions.",
+                        "Collaborated with frontend teams using Next.js and React to build a seamless, responsive user interface, improving user satisfaction.",
+                        "Utilized MySQL database architecture to effectively manage complex relationships between academic profiles, cities, and universities, optimizing data retrieval and processing speed."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "JavaScript"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed an inclusive platform for user registration and report management, focusing on scalability and user experience optimization.",
+                    "achievements": [
+                        "Engineered a registration system using PHP (Laravel) with MySQL integration, handling over 3,000 daily entries efficiently.",
+                        "Implemented advance scheduling systems to streamline reporting tasks, substantially reducing manual overhead and improving information accuracy.",
+                        "Redesigned web application components to enhance user accessibility, scalability and performance, maintaining a high-performance front and backend interface."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Oversaw a dual-system platform creation for enhanced corporate and individual management of registration and invoicing.",
+                    "achievements": [
+                        "Established a secured multi-level architecture utilizing role-based access, safeguarding sensitive data and ensuring policy compliance.",
+                        "Facilitated efficient invoicing processes with structured automated systems, significantly decreasing error rates and process time.",
+                        "Adhered to Agile methodologies for efficient project management, elevating the velocity and precision of project deliverables."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Agile methodology"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Developed automation for customized educational content delivery, streamlining operations and maximizing resource allocation efficiency.",
+                    "achievements": [
+                        "Developed automated study plan generators using Laravel, enhancing scalability and reducing human intervention requirements.",
+                        "Integrated robust data management solutions improving operational workflows, significantly impacting operational speed.",
+                        "Enhanced MySQL performance strategies for seamless data access and retrieval during peak utilization."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Performance Optimization"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-dashboard system to optimize advertising and client interactions, focusing on automation and performance optimization.",
+                    "achievements": [
+                        "Constructed admin and call center dashboards enhancing operational capacity, advancing call and sales volumes substantively.",
+                        "Implemented improved frontend dynamics with migration to React/Next.js, refining performance and user interactions.",
+                        "Applied continuous integration methodologies to reinforce deployment strategies, ensuring stable operational delivery."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        },
+        {
+            "title": "",
+            "link" : ""
+        }
+    ]
+}

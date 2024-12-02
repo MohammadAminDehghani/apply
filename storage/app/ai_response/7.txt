@@ -1,0 +1,209 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Back End Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Experienced Back End Developer with 5 years of expertise in building dynamic web applications using Python, REST APIs, PHP, and SQL. Adept at collaborating with technical and account teams to implement processes and software solutions. Proficient in coding dynamic microsites and web applications with a strong focus on reliability and performance. Committed to continuous improvement and contributing to significant projects that align with organizational goals.\n",
+    "skills": {
+        "soft_skills": [
+            "Strong Organizational Skills",
+            "Analytical and Problem-Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "Python",
+            "REST and SOAP APIs",
+            "PHP",
+            "SQL"
+        ],
+        "hard_skills_frontend": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "hard_skills_tools": [
+            "Git",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "Agile Methodologies (Scrum)",
+            "Python",
+            "Object-Oriented Programming"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Developed a robust backend using Python (Django) and integrated scalable API services, ensuring reliable data processing for professor profiles.",
+                        "Built an intuitive user interface with Next.js, delivering a responsive and seamless user experience.",
+                        "Implemented web scraping techniques to collect detailed professor profiles, maintaining up-to-date information for users.",
+                        "Leveraged OpenAI APIs to analyze professor pages, automating outreach and improving engagement.",
+                        "Utilized MySQL and MongoDB to manage structured and unstructured data effectively, supporting dynamic content storage."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "REST APIs",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users.",
+                    "achievements": [
+                        "Designed and developed a platform for undocumented immigrants using Laravel and MySQL, enabling users to register their personal information.",
+                        "Integrated Jobs and Queues in Laravel to handle email confirmations for high user registration volumes, ensuring uninterrupted user experience.",
+                        "Utilized Laravel Scheduling to automate manager report generation, streamlining operational workflows.",
+                        "Employed data chunking techniques for processing large datasets during report preparation, ensuring timely availability of insights."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms for company and user registration, and tax invoice submissions.",
+                    "achievements": [
+                        "Designed and implemented a multi-level platform architecture with role-based access control.",
+                        "Streamlined invoice submissions using Laravel Jobs and Queues, reducing errors and mitigating server overload.",
+                        "Built a robust tax invoice management system, enhancing compliance with national tax regulations.",
+                        "Automated contract finalization process, reducing processing time and increasing efficiency.",
+                        "Adopted Agile methodology, increasing development velocity through bi-weekly sprints."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML",
+                        "CSS",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Agile methodology"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto platform for students, introducing automation for personalized study plans.",
+                    "achievements": [
+                        "Automated the creation of personalized study plans using Laravel, analyzing students' strengths and weaknesses.",
+                        "Optimized onboarding process by integrating Laravel Queues, reducing onboarding time and improving retention.",
+                        "Improved database performance with indexing and query optimizations for enhanced data retrieval speeds.",
+                        "Built dynamic reporting features and implemented Laravel Queues with caching mechanisms for scalable operations.",
+                        "Created interactive learning tools using PHP and JavaScript to enhance student engagement."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "HTML5",
+                        "CSS",
+                        "JavaScript",
+                        "Trello/Asana",
+                        "Docker"
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application for advertising and contact processes.",
+                    "achievements": [
+                        "Designed and deployed a two-panel system using PHP (Laravel), improving operational efficiency and sales.",
+                        "Migrated frontend to React/Next.js for better performance and user experience.",
+                        "Enhanced customer satisfaction using Agile methodologies, automating payroll and commission workflows.",
+                        "Leveraged Redis for caching, MySQL for structured data, and Python for analytics."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "PHP (Laravel)",
+                        "Python",
+                        "React",
+                        "Next.js",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "personal_info": {
+        "name": "Amin Dehghani",
+        "title": "Senior Software Engineer",
+        "phone": "(438) 543-6282",
+        "email": "man.dehghani1991@gmail.com",
+        "address": "H4A 3B6, Montreal, QC, Canada",
+        "linkedin": "https://linkedin.com/in/amin-d"
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience in PHP (Laravel) and JavaScript, specializing in developing scalable, high-performance web applications. Skilled in backend technologies (PHP, Node.js, RESTful APIs) and proficient in frontend development (React, Next.js, Vue.js). Strong expertise in database management (MySQL, MongoDB), API integrations, and optimizing performance. Collaborative team player with a track record of successful remote and in-office work. Committed to continuous learning, technical excellence, and contributing to innovative projects that drive revenue and user engagement.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js & Vue.js",
+            "JavaScript & TypeScript & jQuery",
+            "HTML & CSS & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI/CD)",
+            "Python",
+            "Java",
+            "Caching Systems (Redis)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "Lendo Technologies Inc",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "Jan 2024 \u2013 Present",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Developed a robust backend using Python (Django) and integrated scalable API services, ensuring reliable data processing for professor profiles.",
+                        "Built an intuitive user interface with Next.js, delivering a responsive and seamless user experience across devices while optimizing page load times.",
+                        "Implemented Web Scraping techniques to collect detailed professor profiles, including research interests and publications, maintaining up-to-date information for users.",
+                        "Leveraged OpenAI APIs to analyze professor pages and generate personalized emails tailored to student interests, automating outreach and improving engagement.",
+                        "Utilized MySQL and MongoDB to manage structured and unstructured data effectively, supporting dynamic content storage for universities, cities, and professors."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "web scraping",
+                        "Scheduler for continuous updates",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Fanavaran",
+            "location": "Tehran",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, ensuring scalable and efficient operations for over 200,000 users and peak activity of 5,000 concurrent users.",
+                    "achievements": [
+                        "Designed and developed a platform for undocumented immigrants using Laravel and MySQL, enabling users to register their personal information while automating daily and weekly reporting for managers.",
+                        "Integrated Jobs and Queues in Laravel to handle email confirmations for over 3,000 daily registrations and 5,000 concurrent users, ensuring smooth and uninterrupted user experience during peak loads.",
+                        "Utilized Laravel Scheduling to automate the generation and delivery of manager reports, streamlining operational workflows.",
+                        "Employed data chunking techniques for processing large datasets during report preparation, reducing memory overhead and execution time, ensuring timely availability of insights for managers"
+                    ],
+                    "tech_stack":   [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "The project involved two interconnected platforms: one for company and individual user registration and contract management, and another for tax invoice submissions.",
+                    "achievements": [
+                        "Designed and implemented a multi-level platform architecture with role-based access control using Laravel's Guard",
+                        "Streamlined invoice submissions using Laravel Jobs and Queues, which reduced errors from 3% to 1% and mitigated server overload by preventing 37% of excessive user requests during peak periods",
+                        "Built a robust tax invoice management system to ensure accurate and timely submission of invoices for over 1,000 companies, enhancing compliance with national tax regulations",
+                        "Automated the contract finalization process, reducing processing time from 20 days to 3 days by implementing streamlined workflows and digitized contract management",
+                        "Adopted Agile methodology with Scrum frameworks, conducting bi-weekly sprints to identify and resolve blockers quickly, increasing development velocity by over 60%",
+                        "Optimized MySQL database performance through indexing, enabling efficient retrieval of over 1 million invoices and improving query execution times. Introduced MySQL cube functionality to optimize reporting processes, reducing report generation requests by 1,000+ per hour (part of team)"
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML",
+                        "CSS",
+                        "jQuery",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Agile methodology",
+                        "Scrum framework",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Start-Up",
+            "location": "Tehran",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, an innovative platform for students to receive personalized study plans for exams based on their strengths and weaknesses. Introduced automation for generating study schedules without human intervention, leveraging PHP, Laravel, and algorithmic planning techniques.\n",
+                    "achievements": [
+                        "Automated the creation of personalized study plans using Laravel, analyzing students' strengths and weaknesses to eliminate manual intervention. This reduced generation time by 80%, scaled the platform to accommodate 5x more students, and ensured accurate plans tailored to individual needs.",
+                        "Optimized the onboarding process by integrating Laravel Queues and email marketing tools, drastically reducing manual data entry and cutting onboarding time from 7 days to 1 day. This improved user retention and conversion rates by 25%, streamlining the user experience.",
+                        "Improved database performance with indexing and query optimizations in MySQL, significantly enhancing data retrieval speeds for student profiles and reports. This reduced query execution time by 40%, providing a seamless experience for users during high-traffic periods.",
+                        "Built dynamic reporting features and implemented Laravel Queues with caching mechanisms to handle heavy tasks like real-time reporting and email notifications. This reduced report generation times by 50% and decreased server load by 30%, ensuring scalability and responsiveness during peak usage.",
+                        "Created interactive learning tools, including a mathematical calculation game and a Lightner box memorization game, using PHP and JavaScript. These tools reduced calculation times from 47 seconds to 21 seconds and provided over 6,000 questions for memorization practice, enhancing student engagement."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "Vue.js",
+                        "HTML5",
+                        "CSS",
+                        "Tailwind CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "Agile (Scrum)",
+                        "Trello/Asana",
+                        "Git, GitHub",
+                        "Docker",
+                        "NGINX",
+                        "PHPUnit",
+                        "Laravel Debugbar",
+                        "Role-based access control",
+                        "background task processing",
+                        "responsive UI",
+                        "performance optimization"
+
+                    ]
+                },
+                {
+                    "summary": "Developed and deployed a comprehensive two-panel application (Admin and Call Center) to streamline advertising and contact processes, optimize performance, and automate key operations.",
+                    "achievements": [
+                        "Designed and deployed a two-panel system (Admin and Call Center dashboards) using PHP (Laravel), enabling agents to log real-time reports and access student details. This improved operational efficiency, leading to a 70% increase in call volume and a 193% sales boost over six months.",
+                        "Migrated the frontend to React/Next.js, replacing HTML, CSS, Bootstrap, and jQuery, to improve performance, scalability, and user experience. Automated contact processes using Redis for caching, MySQL for structured data, and Python for advanced analytics, reducing manual effort and delivering accurate insights.",
+                        "Enhanced customer satisfaction from 73% to 96% over three quarters by implementing Agile methodologies with bi-weekly sprints. Automated payroll and commission workflows for marketing teams, reducing staffing needs by two accountants and leveraging CI/CD pipelines to ensure faster, stable deployments."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "Backend: PHP (Laravel)",
+                        "Python",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "jQuery",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies",
+                        "Sprint reviews",
+                        "Laravel Queues",
+                        "Automation",
+                        "real-time reporting",
+                        "data-driven",
+                        "decision-making",
+                        "performance optimization"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Mechanical Engineering",
+            "university": "Tehran University",
+            "duration": "Aug 2013 \u2013 Apr 2016",
+            "rank": "Ranked 158 out of 30,000 participants"
+        },
+        {
+            "degree": "Bachelor's in Mechanical Engineering",
+            "university": "Shiraz University",
+            "duration": "Aug 2009 \u2013 Jun 2013",
+            "rank": "Ranked 423 out of 158,000 participants"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "PHP Course",
+            "link" : "https://www.w3schools.com/php/"
+        },
+        {
+            "title": "Laravel 11, Vue 3 & Inertia (2024) - Build APIs and SPAs",
+            "link" : "https://www.udemy.com/course/laravel-vuejs-fullstack-web-development/?couponCode=BFCPSALE24"
+        },
+        {
+            "title": "The Complete Node.js Developer Course (3rd Edition)",
+            "link" : "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=BFCPSALE24"
+        },
+        {
+            "title": "Next.js 15 & React",
+            "link" : "https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=BFCPSALE24"
+        },
+        {
+            "title": "Introduction to Structured Query Language (SQL)",
+            "link" : "https://www.coursera.org/learn/intro-sql"
+        },
+        {
+            "title": "Bootstrap Course",
+            "link" : "https://www.codecademy.com/learn/learn-bootstrap"
+        },
+        {
+            "title": "Master Redis v7.0 with hands-on exercises",
+            "link" : "https://www.udemy.com/course/redis-the-complete-developers-guide-p/?couponCode=BFCPSALE24"
+        }
+    ],
+    "cover_letter" : "please provide a cover letter with this job and my cv. please consider job's tone and write it"
+}

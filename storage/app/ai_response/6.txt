@@ -1,0 +1,196 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Full Stack Developer",
+        "phone": "",
+        "email": "",
+        "address": "H4A 3B6, Montreal, QC, Canada   ",
+        "linkedin": ""
+    },
+    "summary": "Passionate Full-Stack Developer with over 5 years of experience in JavaScript/TypeScript and PHP (Laravel), specializing in developing scalable web applications. Proficient in both backend and frontend development, with experience in RESTful APIs, Node.js, and modern web frameworks like React and Next.js. Adept in database management with MySQL and MongoDB, and experienced in optimizing application performance for high-traffic environments. Collaborative team member with a commitment to delivering exceptional user experiences and continuous improvement through fast feedback cycles.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "JavaScript & TypeScript",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Next.js",
+            "JavaScript & TypeScript",
+            "HTML5 & CSS3"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Docker",
+            "Agile Methodologies (Scrum, JIRA)",
+            "CI/CD Pipeline Processing",
+            "AWS/GCP Basics",
+            "PostgreSQL",
+            "Caching Systems (Redis)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Designed and implemented scalable JavaScript backend services using Node.js and Express, ensuring reliable data processing for high traffic users.",
+                        "Created dynamic and responsive front-end components with Next.js for seamless user experience across all devices, optimizing for performance.",
+                        "Utilized web scraping techniques to maintain updated professor profiles, efficiently managing structured and unstructured data with MySQL and MongoDB.",
+                        "Automated outreach processes using OpenAI APIs, significantly improving student engagement via personalized communication strategies."
+                    ],
+                    "tech_stack": [
+                        "Node.js",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "OpenAI API",
+                        "web scraping",
+                        "JWT",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants, scaling operations for over 200,000 users.",
+                    "achievements": [
+                        "Architected a scalable backend using Laravel and MySQL, enhancing user registration processes with automated reporting and high concurrency handling.",
+                        "Streamlined backend operations and reporting automation using Laravel Scheduling and data chunking for efficient large dataset processing."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Implemented a multi-level platform architecture for user registration and tax invoice management.",
+                    "achievements": [
+                        "Enhanced invoice management system and improved backend performance with Laravel, reducing invoice errors significantly during peak periods.",
+                        "Utilized Scrum and Agile methodologies to achieve a 60% increase in development velocity through quick iteration and continuous feedback loops."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML5",
+                        "CSS3",
+                        "jQuery",
+                        "MySQL",
+                        "Agile methodology",
+                        "Scrum framework"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led development of Kabonto, providing students with personalized exam study plans through automation.",
+                    "achievements": [
+                        "Reduced plan generation time by 80% through algorithmic planning and automation using Laravel, scaling the platform significantly.",
+                        "Optimized database operations with indexing and query optimizations in MySQL, enhancing the user experience with faster data retrieval."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "HTML5",
+                        "CSS",
+                        "Docker",
+                        "Git, GitHub"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel application for streamlined advertising and contact operations, enhancing system performance.",
+                    "achievements": [
+                        "Improved system efficiency by migrating to React/Next.js, utilizing caching with Redis and structured data handling in MySQL.",
+                        "Increased customer satisfaction and sales through efficient Agile practices and automated operational workflows."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis",
+                        "JavaScript"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ]
+}

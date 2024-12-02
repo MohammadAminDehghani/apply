@@ -1,0 +1,214 @@
+```json
+{
+    "personal_info": {
+        "name": "",
+        "title": "Senior Software Engineer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Full-Stack Developer with over 5 years of experience, specializing in developing scalable, high-performance web applications with PHP (Laravel) and Python (Django). Skilled in backend and front-end technologies, including JavaScript, React, and HTML/CSS. Strong expertise in database management (MySQL, MongoDB), API integrations, and optimizing eCommerce platforms. Proven track record of working collaboratively and remotely to tackle complex challenges and drive user engagement and conversions.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Python & Django",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Vue.js",
+            "JavaScript & jQuery",
+            "HTML & CSS"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Shopify & Liquid",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "Redis",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI/CD)",
+            "Caching Systems (Redis)",
+            "eCommerce Optimization"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Designed and deployed a scalable backend using Python (Django) for data processing that improved user profile management for thousands of students.",
+                        "Developed a responsive UI with React and integrated Next.js, enhancing user engagement and load times across different devices.",
+                        "Implemented automated data scraping to refresh professor profiles, ensuring accuracy and relevance for student queries.",
+                        "Leveraged AI tools to craft tailored email communication for students, boosting response rates and engagement.",
+                        "Managed dynamically structured content with MySQL and MongoDB, improving data retrieval efficiency."
+                    ],
+                    "tech_stack": [
+                        "Python (Django)",
+                        "Next.js",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI/CD pipelines",
+                        "web scraping",
+                        "Scheduler for continuous updates",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Led development of a secure platform for undocumented immigrants, ensuring efficient operation for over 200,000 users with peak traffic handling.",
+                    "achievements": [
+                        "Engineered the platform backend using Laravel and MySQL, managing critical user data securely while optimizing reporting efficiency.",
+                        "Enhanced system performance with Laravel Queues, streamlining processes for 5,000 concurrent users.",
+                        "Automated report deliveries, significantly decreasing manual oversight required by managers.",
+                        "Optimized large-scale data handling to maintain service reliability during peak usage times."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Developed cohesive platforms for user registration, contract oversight, and tax submissions.",
+                    "achievements": [
+                        "Implemented role-based access and streamlined workflows using Laravel's architecture.",
+                        "Enhanced submission accuracy and reduced errors through optimized Job and Queue management.",
+                        "Accelerated tax compliance features, boosting process times remarkably for over 1,000 businesses.",
+                        "Pioneered Agile scrum in teams, boosting deployment speed and reducing execution errors."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "Next.js",
+                        "Bootstrap",
+                        "HTML",
+                        "CSS",
+                        "jQuery",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Scrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Spearheaded a learning platform providing personalized study plans using intelligent scheduling based on student needs.",
+                    "achievements": [
+                        "Automated analysis of learning preferences to generate personalized schedules, quadrupling user capacity and engagement.",
+                        "Reduced onboarding process via Laravel Queues, cutting processing times significantly.",
+                        "Enhanced database interactions, ensuring rapid data retrieval during high activity periods."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Laravel Queues",
+                        "Redis",
+                        "HTML5",
+                        "CSS",
+                        "JavaScript"
+                    ]
+                },
+                {
+                    "summary": "Implemented a dual-panel system to enhance advertising and operational efficiency for client management.",
+                    "achievements": [
+                        "Improved operational capacity with real-time reporting tools built using Laravel.",
+                        "Switched to a next-gen React frontend, resulting in significant performance upgrades.",
+                        "Increased customer satisfaction by automating key workflows and enhancing user interactions."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "React",
+                        "Next.js",
+                        "Redis",
+                        "Python",
+                        "HTML",
+                        "CSS"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter": "please provide a cover letter (here) with this job and my cv. please consider job's tone and write it"
+}
+```

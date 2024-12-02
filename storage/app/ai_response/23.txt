@@ -1,0 +1,194 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "Web Developer",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": ""
+    },
+    "summary": "Experienced Web Developer with over 5 years of expertise in PHP (Laravel), JavaScript, and modern web technologies. Skilled in designing and implementing web applications, I focus on high-performance, scalable solutions using frameworks like Laravel and React. Proficient in backend development with PHP and Node.js and frontend development with HTML5, CSS3, and JavaScript frameworks. Experienced in integrating APIs and optimizing web applications for performance and user engagement. Strong problem solver with a dedication to driving efficient web solutions.",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React & Vue.js",
+            "JavaScript & jQuery",
+            "HTML5 & CSS3 & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git (GitHub)",
+            "Databases (SQL, NoSQL)",
+            "Docker",
+            "Redis",
+            "SEO",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "CI/CD",
+            "Caching Systems (Redis)",
+            "AWS (basic)",
+            "GCP (basic)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Toronto, ON, Canada (Remote)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas.",
+                    "achievements": [
+                        "Developed a scalable backend using PHP and Laravel, managing and processing professor profiles, enhancing the accuracy of data retrieval.",
+                        "Designed and implemented a responsive frontend with React, improving user engagement and page load speeds across devices.",
+                        "Implemented MySQL and MongoDB to handle structured and dynamic data efficiently, ensuring seamless access to vital information."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "MongoDB",
+                        "CI/CD pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "",
+            "duration": "Nov 2021 – Nov 2023",
+            "projects": [
+                {
+                    "summary": "Developed and optimized a platform for undocumented immigrants, ensuring reliable service for over 200,000 users.",
+                    "achievements": [
+                        "Engineered a robust backend with Laravel and MySQL, supporting high traffic and seamless user experiences during peak usage times.",
+                        "Implemented queue management with Laravel, handling thousands of email confirmations and managing user load efficiently.",
+                        "Automated reporting workflows, reducing data processing time and increasing operational efficiency across the platform."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler"
+                    ]
+                },
+                {
+                    "summary": "Managed a tax invoice submissions platform with integrated company and user registration features.",
+                    "achievements": [
+                        "Developed a multi-tiered architecture using Laravel for secure and efficient data handling.",
+                        "Optimized invoice processing workflows, reducing errors and improving server response times using Laravel Jobs.",
+                        "Enhanced MySQL database queries to support large-scale reporting needs, significantly increasing data retrieval efficiency."
+                    ],
+                    "tech_stack": [
+                        "PHP (Laravel)",
+                        "React",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Bootstrap",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Company",
+            "location": "",
+            "duration": "Mar 2019 - Nov 2021",
+            "projects": [
+                {
+                    "summary": "Led the design and development of Kabonto, providing students with automated personalized study plans.",
+                    "achievements": [
+                        "Automated study plan generation with Laravel, reducing manual input and scaling the platform to support increased user load.",
+                        "Integrated Laravel Queues for efficient onboarding and user engagement, improving retention rates significantly.",
+                        "Improved database querying processes, enhancing speed and reliability during peak times."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "MySQL",
+                        "Vue.js",
+                        "Redis",
+                        "Tailwind CSS"
+                    ]
+                },
+                {
+                    "summary": "Developed a dual-panel system for optimizing internal operations and client engagement.",
+                    "achievements": [
+                        "Implemented a performant two-panel system using Laravel, improving operational efficiency by over 70%.",
+                        "Migrated the frontend to React/Next.js, leading to significant performance and scalability enhancements.",
+                        "Boosted customer satisfaction and streamlined operations by employing Agile workflows and CI/CD pipelines."
+                    ],
+                    "tech_stack": [
+                        "Laravel",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "Redis",
+                        "CI/CD pipelines",
+                        "Agile methodologies"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "cover_letter" : "Dear Hiring Manager,\n\nI am writing to express my interest in the Web Developer position as advertised. With over 5 years of experience in web development, specializing in PHP and JavaScript frameworks, I am excited about the opportunity to contribute to your team.\n\nMy professional journey has been marked by a commitment to developing robust and high-performance web applications tailored to address business needs and user engagement. I have a proven track record of designing scalable solutions using PHP (Laravel) and modern JavaScript libraries like React and Vue.js. My experience extends to managing databases efficiently using MySQL and MongoDB, ensuring data integrity and optimal performance.\n\nAt my current role, I have successfully managed projects that entailed designing and implementing complex platforms for diverse user groups. My approach includes leveraging Agile methodologies to facilitate collaborative development and ensure timely delivery of high-quality software products.\n\nI am particularly drawn to your organization's focus on innovative web solutions and am eager to bring my expertise in PHP, Laravel, and modern frontend technologies to your team. I am enthusiastic about the prospect of contributing to your projects and aligning web applications with both operational and user requirements.\n\nThank you for considering my application. I look forward to the possibility of discussing how I can contribute to your team and help deliver excellent web services.\n\nWarm regards,\n\n[Your Name]"
+}
