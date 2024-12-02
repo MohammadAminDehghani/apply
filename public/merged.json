@@ -1,0 +1,266 @@
+{
+    "personal_info": {
+        "name": "",
+        "title": "ReactJS Developer",
+        "phone": "",
+        "email": "",
+        "address": "Montreal, QC, Canada",
+        "linkedin": ""
+    },
+    "summary": "Accomplished Frontend Developer with over 5 years of experience, specializing in developing scalable, high-performance web applications using JavaScript and React. Proficient in React.js and frontend development, with a strong background in backend technologies and API integrations. Skilled in state management, server-side rendering, and optimizing performance. Collaborative team player committed to technical excellence and innovative projects that enhance user engagement.\n",
+    "skills": {
+        "soft_skills": [
+            "Technical Leadership",
+            "Problem Solving",
+            "Cross-functional Collaboration",
+            "Innovation Mindset",
+            "Adaptability"
+        ],
+        "hard_skills_backend": [
+            "",
+            "PHP & Laravel",
+            "Node & Express",
+            "MySQL",
+            "MongoDB",
+            "RESTful APIs"
+        ],
+        "hard_skills_frontend": [
+            "React.js & Next.js",
+            "JavaScript (ES6+) & TypeScript",
+            "HTML5 & CSS3 & Bootstrap"
+        ],
+        "hard_skills_tools": [
+            "Git & GitHub",
+            "Agile Methodologies (Scrum, JIRA)",
+            "State Management (Redux, Context API)",
+            "Version Control Systems",
+            "RESTful APIs",
+            "Agile Methodologies (Scrum, JIRA)",
+            "Object-Oriented Programming (OOP)",
+            "Pipeline Processing (CI\/CD)",
+            "Python",
+            "Java",
+            "Caching Systems (Redis)"
+        ]
+    },
+    "work_experience": [
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Montreal, QC, Canada (Relocated)",
+            "duration": "",
+            "projects": [
+                {
+                    "summary": "Developed an advanced platform to assist students in the U.S. and Canada in finding the best professors based on their interests and research areas. ",
+                    "achievements": [
+                        "Built an intuitive and responsive user interface with Next.js and React, enabling fast page loads and excellent user experience across devices.",
+                        "Utilized Google and LinkedIn APIs for secure and seamless user authentication with JWT-based management.",
+                        "Leveraged OpenAI APIs for analyzing professor pages, enhancing the relevance of content displayed to users.",
+                        "Implemented CI\/CD pipelines for regular deployment and automated testing of the web application components.",
+                        "Used MySQL to store structured data like universities, cities, and countries. Incorporated MongoDB for managing dynamic, unstructured data related to professors' detailed profiles and publications.",
+                        "Built an intuitive and responsive user interface with Next.js, enabling fast page loads and excellent user experience across devices.",
+                        "Developed the backend using Python (Django) for reliable and scalable API services and efficient data processing.",
+                        "Designed and implemented scheduler-based updates to ensure professor information remains current, reducing manual intervention.",
+                        "Automated the generation of custom email drafts based on professor profiles and student preferences using OpenAI, enhancing user engagement and increasing outreach effectiveness."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "JWT",
+                        "CI\/CD pipelines",
+                        "RESTful APIs",
+                        "CI\/CD pipelines",
+                        "web scraping",
+                        "Scheduler for continuous updates",
+                        "OpenAI API"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "",
+            "location": "Montreal, QC, Canada",
+            "duration": "Nov 2021 \u2013 Nov 2023",
+            "projects": [
+                {
+                    "summary": "Successfully developed and optimized a platform for undocumented immigrants using React and Laravel, efficiently managing high user loads.",
+                    "achievements": [
+                        "Integrated Jobs and Queues in Laravel with a React frontend, ensuring user interface remained responsive during back-end processing.",
+                        "Optimized data retrieval using React state management tools resulting in reduced client-server communication overhead.",
+                        "Streamlined operations by integrating automated processes, reducing manual report generation significantly.",
+                        "Employed data chunking techniques for processing large datasets during report preparation, reducing memory overhead and execution time, ensuring timely availability of insights for managers"
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "PHP (Laravel)",
+                        "Vue.js",
+                        "MySQL",
+                        "Laravel Queues"
+                    ]
+                },
+                {
+                    "summary": "Developed interconnected platforms for user registration, contract management, and tax invoice submissions with enhanced UI\/UX on React.",
+                    "achievements": [
+                        "Migrated user interfaces to React\/Next.js for better performance and scalability.",
+                        "Implemented component-based architecture in React to facilitate easy updates and maintenance of the frontend.",
+                        "Enhancement of UI interactivity using Bootstrap and custom CSS frameworks.",
+                        "Automated the contract finalization process, reducing processing time from 20 days to 3 days by implementing streamlined workflows and digitized contract management",
+                        "Adopted Agile methodology with Scrum frameworks, conducting bi-weekly sprints to identify and resolve blockers quickly, increasing development velocity by over 60%",
+                        "Developed user-friendly frontend interfaces using Bootstrap, HTML, CSS, and jQuery, later upgrading to React\/Next.js for enhanced interactivity and scalability",
+                        "Optimized MySQL database performance through indexing, enabling efficient retrieval of over 1 million invoices and improving query execution times. Introduced MySQL cube functionality to optimize reporting processes, reducing report generation requests by 1,000+ per hour (part of team)"
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "Next.js",
+                        "PHP (Laravel)",
+                        "Bootstrap",
+                        "HTML5",
+                        "CSS",
+                        "MySQL",
+                        "MySQL",
+                        "Laravel Queues",
+                        "Scheduler",
+                        "Agile methodology",
+                        "Scrum framework",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "company": "Kabonto Start-Up",
+            "location": "Montreal, QC, Canada",
+            "duration": "Mar 2020 - Nov 2022",
+            "projects": [
+                {
+                    "summary": "Led the development of a platform for automated personalized study schedules, utilizing React for modular and scalable frontend architecture.",
+                    "achievements": [
+                        "Utilized React to develop interactive study planning tools, enhancing user engagement and simplifying scheduling.",
+                        "Implemented responsive design principles using CSS and Tailwind CSS to ensure compatibility across devices.",
+                        "Deployed components to manage data fetching and rendering, reducing average data processing time significantly.",
+                        "Developed a Lightner box game using PHP and JavaScript, enabling students to practice memorization through more than 6000 short questions",
+                        "Designed and implemented over 5000 individual study programs tailored to students' study hours, significantly reducing planning time from approximately 1 hour to less than 10 minutes",
+                        "Automated the creation of personalized study plans by developing a system in Laravel that analyzes students' strengths and weaknesses. This eliminated the need for human intervention, reducing the time spent on generating plans by 80%, allowing the platform to scale and accommodate 5x more students",
+                        "Implemented Agile and Scrum methodologies to improve team coordination and speed up development processes. This led to more efficient communication between developers, designers, and stakeholders, increasing overall team productivity and reducing development time by 50%",
+                        "Designed a multi-guard authentication system in Laravel to manage role-based access control (RBAC) for admins, teachers, advisors, and students. This enhanced security and allowed for smooth user transitions, reducing unauthorized access incidents by 90%",
+                        "Optimized database performance using indexing and query optimization in MySQL, specifically targeting student profiles and reports. This improved data retrieval speeds, reducing query execution time by 40%, enhancing user experience and system performance during high traffic",
+                        "Integrated Laravel Queues and caching mechanisms to manage heavy tasks like email notifications and large data processing. This offloaded server load, improving scalability and reducing server load by 30%, while improving response times by 20% during peak traffic",
+                        "Automated the user onboarding and verification process by integrating Laravel with email marketing tools, drastically cutting down the manual data entry required for new user accounts. This reduced onboarding time from 7 days to 1 day, leading to a 25% increase in user retention and conversion rates",
+                        "Developed dynamic reporting features using MySQL indexing and Laravel to allow real-time reporting for students and advisors. This improved the performance of generating reports, reducing request times by 50% and decreasing report generation requests by 60%, boosting operational efficiency."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "PHP (Laravel)",
+                        "MySQL",
+                        "Vue.js",
+                        "CSS",
+                        "Tailwind CSS",
+                        "Git, GitHub",
+                        "CSS",
+                        "Tailwind CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "Agile (Scrum)",
+                        "Trello\/Asana",
+                        "Git, GitHub",
+                        "Docker",
+                        "NGINX",
+                        "PHPUnit",
+                        "Laravel Debugbar",
+                        "Role-based access control",
+                        "background task processing",
+                        "responsive UI",
+                        "performance optimization"
+                    ]
+                },
+                {
+                    "summary": "Developed a comprehensive application with automated contact processes and analytics, transitioning the frontend to React for better UX.",
+                    "achievements": [
+                        "Transitioned existing interfaces to React, improving performance and scalability with modern web standards.",
+                        "Implemented caching mechanisms to optimize data loading, enhancing page response times noticeably.",
+                        "Utilized CI\/CD for streamlined code deployments and reduced development cycle times.",
+                        "Automated payroll and commission systems for marketing teams, cutting down staffing needs by two accountants and reducing error rates in financial operations.",
+                        "Boosted customer satisfaction from 73% to 96% over three quarters by implementing agile development methodologies, holding bi-weekly sprint reviews, and swiftly addressing user feedback",
+                        "Leveraged CI\/CD pipelines to streamline deployments, ensuring faster iteration cycles and stability during feature rollouts."
+                    ],
+                    "tech_stack": [
+                        "React",
+                        "PHP (Laravel)",
+                        "Python",
+                        "HTML5",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "HTML",
+                        "CSS",
+                        "Bootstrap",
+                        "JavaScript",
+                        "jQuery",
+                        "React",
+                        "Next.js",
+                        "MySQL",
+                        "MongoDB",
+                        "Redis",
+                        "CI\/CD pipelines",
+                        "Agile methodologies",
+                        "Sprint reviews",
+                        "Laravel Queues",
+                        "Automation",
+                        "real-time reporting",
+                        "data-driven",
+                        "decision-making",
+                        "performance optimization"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        },
+        {
+            "degree": "",
+            "university": "",
+            "duration": "",
+            "rank": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ]
+}
